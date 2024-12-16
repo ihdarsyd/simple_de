@@ -54,3 +54,50 @@ table_dict = {'actor': actor_df,
 
 # validation
 check_table_requirements(actual_table=table_dict, requirements_table=requirements_table)
+check_shape(actual_table = table_dict)
+check_columns(actual_table = table_dict,
+              requirements_table = requirements_table)
+check_data_types(actual_table = table_dict,
+                 requirements_table = requirements_table)
+check_missing_values(actual_table = table_dict)
+check_duplicates_data(table_dict)
+
+# Data Cleansing 1
+country_df = handling_column_country(country_df)
+table_dict['country'] = country_df
+
+city_df = handling_column_city(city_df, country_df)
+table_dict['city'] = city_df
+
+# validation
+check_columns(actual_table = table_dict,
+              requirements_table = requirements_table)
+
+# Data Cleansing 2
+city_df = remove_missing_values_city(city_df)
+table_dict['city'] = city_df
+
+# Data Cleansing 3
+table_dict = adjust_data_types(actual_table=table_dict,requirements_table=requirements_table)
+
+# validation
+check_data_types(actual_table = table_dict,
+                 requirements_table = requirements_table)
+
+# Data Cleansing 4
+city_df = remove_duplicates_city(city_df)
+table_dict['city'] = city_df
+
+# validation
+check_duplicates_data(table_dict)
+
+# Load Data Cleaning
+load_cleaning(table_dict)
+
+
+# Data Manipulation
+film_list = create_film_list(category_df, film_category_df, film_df, actor_df, film_actor_df)
+table_dict['film_list'] = film_list
+
+# load to table_dict
+load_analysis(table_dict)

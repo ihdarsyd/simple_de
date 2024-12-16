@@ -17,3 +17,5 @@ def create_film_list (category, film_category, film, actor, film_actor):
     }
     
     film_list.rename(columns = rename_column_map, inplace = True)
+
+    return film_list
