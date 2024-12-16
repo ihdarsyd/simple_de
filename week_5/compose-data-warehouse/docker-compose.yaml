@@ -1,0 +1,18 @@
+version: '3'
+services:
+  datawarehouse:
+    image: postgres:13
+    container_name: datawarehouse
+    hostname: datawarehouse
+    restart: always
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=qwerty123
+      - POSTGRES_DB=dvdrental_clean
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - data_warehouse:/var/lib/postgresql/data
+    ports:
+      - 3000:5432
+volumes:
+  data_warehouse:
