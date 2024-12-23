@@ -1,0 +1,38 @@
+{%extends "base.html" %}
+
+{%block title%}
+Home page
+{%endblock%}
+
+{%block content %}
+
+
+<div class="container text-center">
+  <div class="row ">
+    {%for d in data%}
+    <div class="col-3 mt-4">
+      <div class="card" style="width: 16rem;">
+        <img src="{{d.images}}" class="card-img-top" alt="{{d.images}}">
+        <div class="card-body">
+          <a href="{{url_for('home.show', id=d.no)}}" class="btn btn-primary">{{d.title}}</a>
+          <p>Product Index: <small class="index">{{d.no}}</small></p>
+        </div>
+      </div>
+    </div>
+    {%endfor%}
+  </div>
+  
+</div>
+<nav aria-label="Page navigation example" class="text-center">
+  <ul class="pagination justify-content-center mt-3">
+    {% if data[0].no > 1%}
+    <li class="page-item"><a class="page-link" href="/prevpage/{{data[0].no - 40}}">Previous</a></li>
+    {% endif %}
+    {% if data[-1].no < 1000 %}
+    <li class="page-item"><a class="page-link" href="/nextpage/{{data[-1].no}}">Next</a></li>
+    {% endif %}
+  </ul>
+  <p><small>Homedepo data is from</small> <a href="https://data.world/crawlfeeds/the-home-depot-dataset">data.world</a></p>
+</nav>
+
+{%endblock%}

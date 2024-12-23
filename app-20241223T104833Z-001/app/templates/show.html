@@ -1,0 +1,36 @@
+{%extends "base.html" %}
+
+{%block title%}
+Detail Page
+{%endblock%}
+
+{%block content %}
+<div class="container mt-5">
+  <!-- {{data}} -->
+  <div class="card mb-3" style="max-width: 100%;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="{{data.images}}" class="img-thumbnail" style="width: 100%;" alt="{{data.imgaes}}">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">{{data.title}}</h5>
+          <p class="card-text description">{{data.description}}</p>
+          <p class="card-text">Price: $<span class="price">{{data.price}}</span> <span class="currency">{{data.currency}}</span></p>
+          <p class="card-text">Brand: <span class="brand">{{data.brand}}</span></p>
+          <p class="card-text ">Availibility: <span class="badge bg-success availability">{{data.availability}}</span></p>
+          <p class="card-text"><small class="text-body-secondary">Product Id: <span class="product_id">{{data.product_id}}</span></small></p>
+          <p class="card-text"><small class="text-body-secondary">Product Index: <span class="index">{{data.no}}</span></small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a href="/" class="btn btn-warning mb-5">Back to home</a>
+  <section id="reviews">
+    <h5>Review Section</h5>
+  </section>
+
+</div>
+
+<script src="{{url_for('static', filename="js/script.js")}}"></script>
+{%endblock%}`
