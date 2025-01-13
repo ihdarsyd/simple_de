@@ -9,7 +9,7 @@ VENV_PATH="/home/shandytp/course-intro-to-data-eng/venv/bin/activate"
 source "$VENV_PATH"
 
 # set python script
-PYTHON_SCRIPT="/home/shandytp/course-intro-to-data-eng/etl_luigi.py"
+PYTHON_SCRIPT="C:\Users\ihdarsyd\Documents\Pacmann\Simple DE\week_8\live-class-w8-intro-to-data-eng\main.py"
 
 # run python script
 python "$PYTHON_SCRIPT" >> /home/shandytp/course-intro-to-data-eng/log/logfile.log 2>&1
