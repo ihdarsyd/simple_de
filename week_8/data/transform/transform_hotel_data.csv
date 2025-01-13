@@ -1,0 +1,402 @@
+reservation_id,full_name,email,domain_email,reservation_date,payment_date,start_date,end_date,total_price,currency,provider,payment_status
+1,Wirda Mardhiyah,wirdamardhiyah@hotmail.com,hotmail.com,2020-10-03 14:38:18.907,2020-10-20 17:07:04.406780,2020-10-28 18:10:37.175,2020-11-07 06:56:19.627,7000000.0,IDR,Ovo,Success
+2,Indah Zulaika,indahzulaika@gmail.com,gmail.com,2015-02-17 20:44:11.696,2015-02-28 16:44:56.703511,2015-03-08 05:27:33.443,2015-03-13 01:01:28.449,15000000.0,IDR,BCA,Success
+3,Martani Hastuti,martanihastuti@gmail.com,gmail.com,2022-03-19 12:18:48.993,2022-04-03 13:27:30.811447,2022-04-06 14:20:57.846,2022-04-10 08:06:20.564,3000000.0,IDR,Permata,Success
+4,Karen Haryanto,karenharyanto@yahoo.com,yahoo.com,2019-10-01 12:33:58.891,2019-10-04 08:39:56.034805,2019-10-08 02:01:21.209,2019-10-19 06:25:22.948,15000000.0,IDR,BNI,Success
+5,Bakiono Pratiwi,bakionopratiwi@gmail.com,gmail.com,2020-05-28 23:25:59.539,Tidak Ada Data,2020-06-14 12:02:55.669,2020-06-22 20:59:13.732,5000000.0,IDR,BSI,Failed
+6,Carub Wastuti,carubwastuti@yahoo.com,yahoo.com,2020-02-24 20:47:00.064,Tidak Ada Data,2020-03-25 03:35:27.294,2020-03-26 10:00:59.137,5000000.0,IDR,Ovo,Waiting
+7,Olivia Prakasa,oliviaprakasa@yahoo.com,yahoo.com,2017-09-16 01:39:46.546,Tidak Ada Data,2017-10-12 03:15:31.976,2017-10-19 10:10:16.118,15000000.0,IDR,BSI,Waiting
+8,Wisnu Nababan,wisnunababan@yahoo.com,yahoo.com,2019-07-01 04:56:07.266,2019-07-06 00:27:04.653808,2019-07-16 05:38:12.603,2019-07-30 05:18:03.066,9000000.0,IDR,Permata,Success
+9,Heru Mulyani,herumulyani@hotmail.com,hotmail.com,2020-10-22 06:45:35.535,2020-10-22 21:58:00.410610,2020-11-07 21:05:56.055,2020-11-21 12:45:45.823,15000000.0,IDR,Mandiri,Success
+10,Carub Hidayanto,carubhidayanto@gmail.com,gmail.com,2021-02-21 22:12:47.984,Tidak Ada Data,2021-03-23 15:28:53.857,2021-03-25 06:56:26.961,5000000.0,IDR,BCA,Failed
+11,Pangeran Hutapea,pangeranhutapea@gmail.com,gmail.com,2015-12-11 06:33:37.240,2015-12-30 19:38:38.538543,2016-01-04 23:05:09.802,2016-01-09 13:51:19.994,5000000.0,IDR,BCA,Success
+12,Leo Tamba,leotamba@yahoo.com,yahoo.com,2016-03-31 19:54:09.788,2016-04-20 11:00:30.806322,2016-04-29 02:21:20.891,2016-05-11 11:08:41.262,11000000.0,IDR,Mandiri,Success
+13,Hesti Ardianto,hestiardianto@yahoo.com,yahoo.com,2021-02-21 15:07:59.728,Tidak Ada Data,2021-03-09 03:35:10.487,2021-03-10 10:38:13.905,15000000.0,IDR,BSI,Failed
+14,Timbul Kusmawati,timbulkusmawati@yahoo.com,yahoo.com,2015-08-07 02:59:32.513,2015-08-30 02:50:08.222347,2015-09-06 15:20:00.703,2015-09-17 00:25:46.386,15000000.0,IDR,BNI,Success
+15,Aurora Suryono,aurorasuryono@gmail.com,gmail.com,2015-08-22 00:22:53.157,2015-08-25 14:16:14.426967,2015-09-11 10:50:49.605,2015-09-14 17:13:08.070,13000000.0,IDR,Ovo,Success
+16,Balangga Yuliarti,balanggayuliarti@yahoo.com,yahoo.com,2015-06-17 16:10:29.598,2015-06-20 02:46:39.973862,2015-07-14 03:01:07.619,2015-07-21 05:28:01.759,3000000.0,IDR,BSI,Success
+17,Gaman Puspasari,gamanpuspasari@gmail.com,gmail.com,2017-06-06 08:22:02.355,Tidak Ada Data,2017-07-04 16:06:26.397,2017-07-12 10:05:21.329,9000000.0,IDR,Permata,Waiting
+18,Vinsen Firgantoro,vinsenfirgantoro@yahoo.com,yahoo.com,2022-01-17 13:29:51.692,Tidak Ada Data,2022-02-07 12:28:06.762,2022-02-08 11:52:06.738,9000000.0,IDR,Ovo,Failed
+19,Patricia Sitorus,patriciasitorus@hotmail.com,hotmail.com,2020-08-13 20:21:31.063,2020-08-13 21:31:51.720690,2020-08-18 00:19:21.200,2020-08-24 04:34:42.924,7000000.0,IDR,Permata,Success
+20,Harjo Pradipta,harjopradipta@hotmail.com,hotmail.com,2019-04-23 11:58:46.607,2019-04-29 02:30:35.993787,2019-05-04 07:50:25.941,2019-05-18 08:54:34.931,3000000.0,IDR,BRI,Success
+21,Luwes Hartati,luweshartati@hotmail.com,hotmail.com,2016-06-26 06:47:03.764,2016-07-05 21:12:14.843462,2016-07-23 13:34:21.552,2016-07-29 18:20:29.959,13000000.0,IDR,BCA,Success
+22,Ajiono Susanti,ajionosusanti@gmail.com,gmail.com,2022-09-01 07:42:32.238,2022-09-14 04:05:25.125170,2022-09-22 05:26:27.455,2022-10-01 16:01:30.589,7000000.0,IDR,BSI,Success
+23,Atma Simbolon,atmasimbolon@gmail.com,gmail.com,2015-12-21 23:01:46.236,Tidak Ada Data,2015-12-27 08:40:25.543,2016-01-10 02:29:46.762,1000000.0,IDR,Mandiri,Waiting
+24,Hilda Suwarno,hildasuwarno@gmail.com,gmail.com,2018-04-21 08:04:52.321,2018-04-22 10:35:56.072920,2018-04-23 08:43:05.754,2018-04-26 07:02:52.032,1000000.0,IDR,Dana,Success
+25,Bakiadi Siregar,bakiadisiregar@hotmail.com,hotmail.com,2018-01-22 09:50:23.984,Tidak Ada Data,2018-01-23 00:35:29.432,2018-01-24 09:14:37.657,9000000.0,IDR,Ovo,Waiting
+26,Hardi Iswahyudi,hardiiswahyudi@hotmail.com,hotmail.com,2022-07-07 15:46:19.380,2022-07-15 21:16:23.550955,2022-07-18 12:52:41.212,2022-07-21 04:14:18.331,1000000.0,IDR,Ovo,Success
+27,Galuh Dongoran,galuhdongoran@gmail.com,gmail.com,2023-09-18 08:49:42.079,2023-09-23 08:40:39.730816,2023-09-24 01:16:48.101,2023-09-29 05:14:18.458,5000000.0,IDR,Mandiri,Success
+28,Daru Latupono,darulatupono@hotmail.com,hotmail.com,2017-02-04 01:48:49.112,2017-02-05 15:32:32.753439,2017-02-18 06:59:20.424,2017-03-01 01:22:47.384,7000000.0,IDR,Mandiri,Success
+29,Dono Habibi,donohabibi@gmail.com,gmail.com,2023-01-23 21:21:15.594,2023-01-28 12:45:00.348000,2023-01-31 03:41:40.888,2023-02-04 20:35:54.244,9000000.0,IDR,Permata,Success
+30,Irwan Salahudin,irwansalahudin@yahoo.com,yahoo.com,2022-10-11 00:17:26.658,Tidak Ada Data,2022-10-24 00:18:02.325,2022-11-06 10:17:12.147,9000000.0,IDR,BNI,Failed
+31,Shania Oktaviani,shaniaoktaviani@gmail.com,gmail.com,2017-04-09 12:00:56.367,2017-05-01 20:28:13.755565,2017-05-09 08:51:12.372,2017-05-18 02:10:22.277,13000000.0,IDR,BRI,Success
+32,Jamil Mustofa,jamilmustofa@hotmail.com,hotmail.com,2015-04-14 05:17:11.713,2015-04-19 16:25:57.795156,2015-04-23 08:29:01.599,2015-04-28 07:28:22.808,13000000.0,IDR,Mandiri,Success
+33,Lega Hastuti,legahastuti@hotmail.com,hotmail.com,2019-06-16 19:08:20.417,Tidak Ada Data,2019-07-04 21:42:17.104,2019-07-17 05:40:12.946,1000000.0,IDR,BSI,Failed
+34,Siti Winarsih,sitiwinarsih@yahoo.com,yahoo.com,2022-06-14 09:19:03.923,2022-06-29 04:45:09.569007,2022-07-03 02:19:06.766,2022-07-09 06:55:25.491,15000000.0,IDR,BNI,Success
+35,Saka Hutagalung,sakahutagalung@gmail.com,gmail.com,2021-03-05 10:58:32.467,2021-03-08 00:19:09.674313,2021-04-02 21:35:18.446,2021-04-13 16:10:24.464,5000000.0,IDR,BNI,Success
+36,Bagiya Wacana,bagiyawacana@yahoo.com,yahoo.com,2019-01-03 17:52:01.668,2019-01-05 08:33:46.361318,2019-01-09 02:25:55.280,2019-01-23 03:26:26.231,5000000.0,IDR,BCA,Success
+37,Rahmi Rajata,rahmirajata@hotmail.com,hotmail.com,2021-02-13 22:25:33.448,2021-02-22 23:33:09.517954,2021-03-07 10:41:32.072,2021-03-14 01:28:56.270,13000000.0,IDR,Permata,Success
+38,Daniswara Napitupulu,daniswaranapitupulu@gmail.com,gmail.com,2023-08-08 01:09:27.000,2023-08-23 00:36:18.891850,2023-09-01 14:07:51.339,2023-09-03 15:15:20.806,7000000.0,IDR,BSI,Success
+39,Martana Hasanah,martanahasanah@gmail.com,gmail.com,2023-03-01 05:38:16.308,Tidak Ada Data,2023-03-10 01:12:22.026,2023-03-14 20:40:34.452,1000000.0,IDR,BNI,Waiting
+40,Daruna Mangunsong,darunamangunsong@gmail.com,gmail.com,2023-12-12 16:16:55.198,Tidak Ada Data,2023-12-25 09:52:31.666,2024-01-01 15:02:34.230,13000000.0,IDR,Mandiri,Failed
+41,Wardi Yuliarti,wardiyuliarti@hotmail.com,hotmail.com,2020-02-25 22:07:05.288,2020-02-27 10:00:13.749346,2020-02-28 04:37:35.641,2020-03-05 07:37:11.335,11000000.0,IDR,Dana,Success
+42,Warsita Simanjuntak,warsitasimanjuntak@gmail.com,gmail.com,2022-07-31 18:19:08.357,2022-08-12 06:55:05.659188,2022-08-24 09:26:35.508,2022-08-30 18:06:49.685,9000000.0,IDR,Permata,Success
+43,Jaga Hutasoit,jagahutasoit@gmail.com,gmail.com,2016-03-06 18:53:25.915,2016-03-15 12:39:13.901383,2016-04-05 14:50:43.437,2016-04-18 19:59:10.473,9000000.0,IDR,Permata,Success
+44,Halima Nugroho,halimanugroho@gmail.com,gmail.com,2020-07-04 20:20:12.584,2020-07-28 08:11:48.573162,2020-07-30 06:38:43.895,2020-08-04 07:43:35.439,15000000.0,IDR,Dana,Success
+45,Bahuwarna Yuniar,bahuwarnayuniar@gmail.com,gmail.com,2022-11-12 17:09:26.653,2022-11-16 11:46:45.890529,2022-11-26 16:05:43.658,2022-12-06 13:48:41.602,15000000.0,IDR,BRI,Success
+46,Hadi Laksmiwati,hadilaksmiwati@yahoo.com,yahoo.com,2019-07-27 11:13:01.769,2019-08-13 02:30:29.381232,2019-08-20 00:39:27.665,2019-08-27 03:26:56.672,1000000.0,IDR,Dana,Success
+47,Purwadi Prabowo,purwadiprabowo@hotmail.com,hotmail.com,2023-11-24 08:49:25.301,2023-11-26 00:37:55.621649,2023-12-16 06:31:35.617,2023-12-18 00:32:03.895,13000000.0,IDR,Ovo,Success
+48,Capa Zulaika,capazulaika@gmail.com,gmail.com,2020-11-14 14:46:44.638,2020-11-20 18:33:57.224326,2020-11-25 15:59:37.295,2020-12-04 11:11:49.825,9000000.0,IDR,BCA,Success
+49,Drajat Nainggolan,drajatnainggolan@yahoo.com,yahoo.com,2021-09-11 04:17:09.909,2021-09-30 22:51:39.392363,2021-10-02 02:48:59.764,2021-10-04 09:03:50.491,13000000.0,IDR,Dana,Success
+50,Gaiman Jailani,gaimanjailani@yahoo.com,yahoo.com,2021-04-19 12:40:39.429,Tidak Ada Data,2021-05-03 19:49:22.287,2021-05-15 14:41:12.108,9000000.0,IDR,Dana,Waiting
+51,Najib Napitupulu,najibnapitupulu@yahoo.com,yahoo.com,2023-06-08 01:26:46.924,2023-06-10 08:09:57.495218,2023-07-02 21:50:33.150,2023-07-05 23:14:26.840,5000000.0,IDR,Permata,Success
+52,Dipa Damanik,dipadamanik@gmail.com,gmail.com,2021-11-11 08:39:20.172,2021-11-14 13:20:46.221819,2021-11-26 11:07:51.214,2021-12-02 01:27:06.765,3000000.0,IDR,Dana,Success
+53,Najam Sitompul,najamsitompul@gmail.com,gmail.com,2023-04-21 21:01:27.179,Tidak Ada Data,2023-05-11 18:08:14.305,2023-05-18 05:19:46.608,15000000.0,IDR,BRI,Waiting
+54,Luluh Damanik,luluhdamanik@yahoo.com,yahoo.com,2015-05-30 19:52:12.992,2015-05-31 20:07:04.540371,2015-06-12 11:54:49.849,2015-06-16 06:26:04.424,3000000.0,IDR,Permata,Success
+55,Wani Melani,wanimelani@hotmail.com,hotmail.com,2018-11-25 03:42:50.222,2018-12-14 17:32:02.951623,2018-12-19 04:32:43.135,2018-12-25 13:26:34.594,1000000.0,IDR,BNI,Success
+56,Citra Namaga,citranamaga@gmail.com,gmail.com,2019-06-19 12:59:16.852,Tidak Ada Data,2019-06-21 16:11:44.478,2019-07-03 03:20:21.178,13000000.0,IDR,Dana,Waiting
+57,Martani Hastuti,martanihastuti@gmail.com,gmail.com,2020-04-14 06:43:04.995,2020-04-14 12:15:04.336920,2020-04-18 06:13:07.614,2020-04-28 01:30:25.905,15000000.0,IDR,BSI,Success
+58,Cengkal Halim,cengkalhalim@yahoo.com,yahoo.com,2022-01-04 18:59:02.384,Tidak Ada Data,2022-01-29 23:14:13.514,2022-02-12 18:27:39.555,11000000.0,IDR,BCA,Waiting
+59,Oni Wijayanti,oniwijayanti@hotmail.com,hotmail.com,2017-11-07 03:15:54.769,2017-11-11 03:42:20.481068,2017-11-13 17:15:11.355,2017-11-26 14:54:23.660,15000000.0,IDR,Mandiri,Success
+60,Galuh Hastuti,galuhhastuti@yahoo.com,yahoo.com,2023-04-14 14:31:25.836,2023-04-15 19:37:12.782132,2023-04-16 04:38:12.455,2023-04-27 21:32:52.093,5000000.0,IDR,BRI,Success
+61,Violet Waluyo,violetwaluyo@yahoo.com,yahoo.com,2019-03-12 08:08:26.590,2019-03-18 21:20:10.362002,2019-04-03 22:53:23.095,2019-04-15 16:47:19.192,13000000.0,IDR,BSI,Success
+62,Heryanto Siregar,heryantosiregar@hotmail.com,hotmail.com,2016-06-22 16:38:50.950,2016-06-25 07:11:03.340820,2016-07-01 17:54:37.944,2016-07-08 15:56:10.137,1000000.0,IDR,Ovo,Success
+63,Waluyo Novitasari,waluyonovitasari@gmail.com,gmail.com,2019-07-19 19:50:30.042,2019-07-28 11:05:08.955412,2019-08-03 05:39:22.799,2019-08-08 07:20:51.729,1000000.0,IDR,BNI,Success
+64,Febi Marpaung,febimarpaung@hotmail.com,hotmail.com,2015-11-13 17:41:50.517,2015-11-18 22:08:04.793063,2015-11-20 06:28:29.081,2015-11-25 13:51:50.784,9000000.0,IDR,Dana,Success
+65,Wisnu Nababan,wisnunababan@yahoo.com,yahoo.com,2016-02-03 21:14:16.776,Tidak Ada Data,2016-03-03 18:51:54.191,2016-03-10 11:22:30.663,11000000.0,IDR,Dana,Failed
+66,Citra Halim,citrahalim@gmail.com,gmail.com,2019-10-13 01:32:24.656,Tidak Ada Data,2019-10-14 14:03:46.277,2019-10-18 20:21:48.403,11000000.0,IDR,BRI,Waiting
+67,Clara Salahudin,clarasalahudin@yahoo.com,yahoo.com,2022-08-21 11:22:52.970,Tidak Ada Data,2022-09-08 18:50:59.286,2022-09-21 05:37:19.609,3000000.0,IDR,Permata,Failed
+68,Gangsa Hastuti,gangsahastuti@yahoo.com,yahoo.com,2019-10-27 19:21:51.643,Tidak Ada Data,2019-10-31 02:42:12.650,2019-11-12 15:40:38.202,3000000.0,IDR,Ovo,Failed
+69,Samiah Agustina,samiahagustina@yahoo.com,yahoo.com,2017-06-23 17:53:23.173,2017-06-28 04:34:19.252113,2017-06-29 17:37:30.305,2017-07-13 17:56:32.625,13000000.0,IDR,Mandiri,Success
+70,Latika Pratama,latikapratama@yahoo.com,yahoo.com,2016-10-05 05:56:58.742,2016-10-12 00:28:15.222130,2016-11-02 18:51:32.716,2016-11-14 07:52:37.219,1000000.0,IDR,Dana,Success
+71,Sadina Iswahyudi,sadinaiswahyudi@yahoo.com,yahoo.com,2022-06-22 12:25:56.641,2022-06-29 01:22:52.919556,2022-07-04 23:09:59.988,2022-07-11 15:12:05.013,5000000.0,IDR,BSI,Success
+72,Kanda Kurniawan,kandakurniawan@hotmail.com,hotmail.com,2016-02-03 14:22:04.975,2016-02-07 00:26:54.307496,2016-02-11 15:01:20.193,2016-02-19 12:27:01.926,9000000.0,IDR,Permata,Success
+73,Maryanto Padmasari,maryantopadmasari@gmail.com,gmail.com,2021-01-03 22:55:57.253,2021-01-04 10:40:52.597047,2021-01-04 13:54:49.421,2021-01-11 06:44:54.332,13000000.0,IDR,BNI,Success
+74,Taswir Waskita,taswirwaskita@gmail.com,gmail.com,2015-01-01 20:02:38.637,2015-01-06 18:04:12.385422,2015-01-13 20:28:42.341,2015-01-16 14:11:13.172,13000000.0,IDR,BCA,Success
+75,Kusuma Natsir,kusumanatsir@gmail.com,gmail.com,2019-04-15 02:11:34.600,Tidak Ada Data,2019-04-19 20:22:23.677,2019-05-02 20:19:05.943,11000000.0,IDR,Ovo,Failed
+76,Lega Hariyah,legahariyah@gmail.com,gmail.com,2020-06-26 18:12:07.134,2020-07-02 16:13:11.932542,2020-07-17 17:38:17.101,2020-07-18 04:38:06.351,9000000.0,IDR,BRI,Success
+77,Parman Palastri,parmanpalastri@yahoo.com,yahoo.com,2023-12-02 06:24:32.303,2023-12-06 22:13:51.614654,2023-12-18 11:04:15.189,2023-12-27 16:15:27.946,3000000.0,IDR,Permata,Success
+78,Jarwadi Uyainah,jarwadiuyainah@hotmail.com,hotmail.com,2015-05-05 18:18:32.102,Tidak Ada Data,2015-05-27 12:30:12.943,2015-06-02 13:25:32.198,9000000.0,IDR,BSI,Failed
+79,Alika Kuswoyo,alikakuswoyo@gmail.com,gmail.com,2017-12-01 08:31:21.174,2017-12-08 05:25:19.282480,2017-12-30 18:38:36.992,2018-01-06 02:19:55.055,9000000.0,IDR,Dana,Success
+80,Kalim Maryadi,kalimmaryadi@gmail.com,gmail.com,2015-04-16 10:51:46.242,2015-04-17 18:52:42.263507,2015-04-24 16:40:22.687,2015-05-05 08:05:52.026,15000000.0,IDR,BRI,Success
+81,Tomi Iswahyudi,tomiiswahyudi@yahoo.com,yahoo.com,2019-06-19 03:53:30.982,2019-06-19 07:26:25.436623,2019-06-20 09:32:49.233,2019-07-01 05:31:17.860,5000000.0,IDR,BSI,Success
+82,Gada Padmasari,gadapadmasari@gmail.com,gmail.com,2015-07-26 01:32:33.425,2015-08-03 14:06:09.588340,2015-08-04 23:55:12.720,2015-08-07 11:07:10.301,15000000.0,IDR,Ovo,Success
+83,Hendri Hidayat,hendrihidayat@hotmail.com,hotmail.com,2020-02-12 02:23:36.847,2020-02-21 00:55:12.000211,2020-03-10 21:05:40.467,2020-03-16 20:44:35.590,1000000.0,IDR,Mandiri,Success
+84,Tedi Purnawati,tedipurnawati@yahoo.com,yahoo.com,2021-09-22 13:03:19.304,Tidak Ada Data,2021-10-21 17:02:15.577,2021-11-01 03:10:22.526,9000000.0,IDR,BSI,Failed
+85,Parman Laksita,parmanlaksita@hotmail.com,hotmail.com,2017-09-01 07:43:56.833,Tidak Ada Data,2017-09-21 08:23:18.169,2017-09-27 20:12:05.231,3000000.0,IDR,BSI,Failed
+86,Irfan Maryadi,irfanmaryadi@gmail.com,gmail.com,2022-06-25 18:25:26.577,2022-06-26 10:53:36.921245,2022-06-27 17:39:58.972,2022-07-02 20:36:45.339,11000000.0,IDR,Permata,Success
+87,Hesti Prasasta,hestiprasasta@yahoo.com,yahoo.com,2016-05-05 02:22:51.673,2016-05-09 04:43:16.673477,2016-05-23 07:56:07.111,2016-05-24 15:23:18.541,7000000.0,IDR,BRI,Success
+88,Dimas Permadi,dimaspermadi@gmail.com,gmail.com,2023-11-04 22:23:45.053,2023-11-10 07:06:09.877160,2023-11-10 18:03:50.074,2023-11-15 23:39:58.331,7000000.0,IDR,BCA,Success
+89,Najib Firmansyah,najibfirmansyah@hotmail.com,hotmail.com,2017-06-02 04:07:30.533,Tidak Ada Data,2017-06-18 21:27:53.264,2017-06-19 02:09:31.489,13000000.0,IDR,Permata,Failed
+90,Oni Wijayanti,oniwijayanti@hotmail.com,hotmail.com,2016-11-22 00:51:07.325,2016-12-07 08:09:32.799865,2016-12-15 01:03:47.632,2016-12-23 23:54:02.631,7000000.0,IDR,Mandiri,Success
+91,Dartono Budiyanto,dartonobudiyanto@gmail.com,gmail.com,2020-05-11 17:36:18.699,2020-05-12 05:16:15.834908,2020-05-18 06:31:50.530,2020-05-19 14:32:10.557,9000000.0,IDR,BNI,Success
+92,Lala Widodo,lalawidodo@yahoo.com,yahoo.com,2020-04-18 01:35:58.713,Tidak Ada Data,2020-05-14 09:29:03.113,2020-05-28 20:25:48.968,1000000.0,IDR,Dana,Failed
+93,Jindra Handayani,jindrahandayani@hotmail.com,hotmail.com,2021-09-10 19:15:55.904,2021-09-15 06:34:49.551255,2021-09-19 15:53:29.023,2021-09-23 04:13:10.913,11000000.0,IDR,Dana,Success
+94,Sadina Iswahyudi,sadinaiswahyudi@yahoo.com,yahoo.com,2017-08-06 21:22:30.160,2017-08-09 20:23:13.769201,2017-09-05 02:41:10.294,2017-09-19 14:00:41.667,11000000.0,IDR,Dana,Success
+95,Adhiarja Sirait,adhiarjasirait@gmail.com,gmail.com,2017-10-16 18:54:16.260,2017-10-17 20:06:21.595450,2017-11-02 20:23:54.866,2017-11-10 17:47:00.903,5000000.0,IDR,Ovo,Success
+96,Nabila Wulandari,nabilawulandari@gmail.com,gmail.com,2016-01-02 23:26:30.978,2016-01-08 04:26:10.318807,2016-01-18 15:53:37.992,2016-01-25 12:35:00.740,15000000.0,IDR,Dana,Success
+97,Digdaya Salahudin,digdayasalahudin@gmail.com,gmail.com,2017-11-19 06:59:16.928,2017-11-22 01:42:36.010233,2017-12-03 05:35:37.078,2017-12-07 07:37:52.288,9000000.0,IDR,Ovo,Success
+98,Sarah Saptono,sarahsaptono@yahoo.com,yahoo.com,2017-11-29 19:41:06.889,Tidak Ada Data,2017-12-09 12:07:29.771,2017-12-11 22:01:05.144,9000000.0,IDR,BCA,Waiting
+99,Eluh Rahimah,eluhrahimah@gmail.com,gmail.com,2017-09-09 20:29:02.526,2017-09-16 05:54:25.615111,2017-10-08 18:03:37.462,2017-10-09 07:45:30.998,9000000.0,IDR,BNI,Success
+100,Cawisadi Kuswandari,cawisadikuswandari@yahoo.com,yahoo.com,2020-12-11 02:17:47.363,Tidak Ada Data,2021-01-05 01:47:16.102,2021-01-15 23:28:14.666,9000000.0,IDR,BRI,Failed
+101,Martaka Januar,martakajanuar@hotmail.com,hotmail.com,2021-11-10 16:26:52.984,Tidak Ada Data,2021-11-17 19:24:15.874,2021-11-28 14:53:41.228,7000000.0,IDR,Ovo,Failed
+102,Shakila Usamah,shakilausamah@gmail.com,gmail.com,2018-10-20 20:38:00.445,2018-11-02 08:47:58.713702,2018-11-16 18:14:40.984,2018-11-19 15:06:00.984,11000000.0,IDR,BRI,Success
+103,Zahra Irawan,zahrairawan@gmail.com,gmail.com,2018-02-06 09:39:18.029,2018-02-14 19:33:07.335973,2018-02-18 06:13:45.235,2018-02-24 09:44:49.494,15000000.0,IDR,BSI,Success
+104,Gabriella Suryatmi,gabriellasuryatmi@hotmail.com,hotmail.com,2018-01-09 01:19:20.714,2018-01-22 00:29:12.397426,2018-02-04 22:31:48.537,2018-02-09 09:59:41.577,7000000.0,IDR,Permata,Success
+105,Jarwa Prastuti,jarwaprastuti@hotmail.com,hotmail.com,2016-06-19 06:42:31.534,2016-07-02 18:03:58.500839,2016-07-04 19:05:01.717,2016-07-18 00:17:25.065,1000000.0,IDR,BRI,Success
+106,Digdaya Salahudin,digdayasalahudin@gmail.com,gmail.com,2017-03-14 19:30:18.709,Tidak Ada Data,2017-03-16 08:25:49.194,2017-03-19 13:52:12.568,3000000.0,IDR,Mandiri,Failed
+107,Bakda Yulianti,bakdayulianti@gmail.com,gmail.com,2015-06-30 17:43:48.973,2015-07-02 14:04:26.966531,2015-07-03 01:12:22.413,2015-07-12 06:58:14.322,7000000.0,IDR,BRI,Success
+108,Edison Pradana,edisonpradana@gmail.com,gmail.com,2016-11-28 06:13:00.334,2016-11-28 18:45:34.751681,2016-12-04 21:40:25.070,2016-12-15 07:23:03.390,13000000.0,IDR,BNI,Success
+109,Banawi Hartati,banawihartati@gmail.com,gmail.com,2023-07-31 01:31:58.757,2023-08-07 21:04:13.921606,2023-08-10 09:33:37.996,2023-08-24 12:01:50.544,11000000.0,IDR,Dana,Success
+110,Wirda Mardhiyah,wirdamardhiyah@hotmail.com,hotmail.com,2019-12-22 10:09:42.031,2019-12-23 20:53:00.975248,2019-12-30 08:55:46.425,2019-12-31 05:58:20.923,13000000.0,IDR,Ovo,Success
+111,Catur Budiyanto,caturbudiyanto@yahoo.com,yahoo.com,2016-08-23 07:21:25.466,2016-09-06 23:26:02.418191,2016-09-11 22:56:03.510,2016-09-16 01:54:14.865,7000000.0,IDR,BNI,Success
+112,Anastasia Prasasta,anastasiaprasasta@gmail.com,gmail.com,2023-08-30 10:18:18.229,2023-09-03 03:28:41.011147,2023-09-19 02:26:55.706,2023-09-21 06:18:42.508,13000000.0,IDR,Permata,Success
+113,Laila Siregar,lailasiregar@gmail.com,gmail.com,2018-01-31 01:01:06.153,2018-02-01 11:30:54.222723,2018-02-01 21:17:14.499,2018-02-10 15:22:41.086,11000000.0,IDR,BSI,Success
+114,Intan Latupono,intanlatupono@gmail.com,gmail.com,2018-02-18 11:50:45.626,Tidak Ada Data,2018-03-13 03:18:42.432,2018-03-16 07:28:40.450,3000000.0,IDR,BCA,Waiting
+115,Kenes Pangestu,kenespangestu@hotmail.com,hotmail.com,2020-10-01 20:34:20.431,2020-10-04 14:31:20.776764,2020-10-28 11:20:04.777,2020-11-08 10:33:46.605,1000000.0,IDR,BRI,Success
+116,Ajiono Ramadan,ajionoramadan@gmail.com,gmail.com,2023-07-15 01:35:27.829,2023-07-23 09:23:23.727605,2023-07-24 22:15:30.736,2023-08-02 15:50:53.131,15000000.0,IDR,BRI,Success
+117,Tania Permadi,taniapermadi@hotmail.com,hotmail.com,2017-04-14 02:59:06.899,2017-04-24 20:02:22.709654,2017-05-05 03:26:28.122,2017-05-11 07:17:45.347,1000000.0,IDR,BCA,Success
+118,Martani Safitri,martanisafitri@hotmail.com,hotmail.com,2023-05-04 03:26:38.361,2023-05-22 10:47:22.187549,2023-05-23 22:47:14.262,2023-05-25 12:25:01.218,9000000.0,IDR,Permata,Success
+119,Padmi Nababan,padminababan@hotmail.com,hotmail.com,2015-12-13 10:48:36.625,2015-12-14 21:41:03.111260,2016-01-04 10:09:19.323,2016-01-11 05:36:48.516,13000000.0,IDR,BRI,Success
+120,Edison Pradana,edisonpradana@gmail.com,gmail.com,2019-05-28 15:03:14.467,2019-06-01 12:50:33.657788,2019-06-01 15:36:56.753,2019-06-12 10:59:08.328,11000000.0,IDR,Mandiri,Success
+121,Limar Mandala,limarmandala@yahoo.com,yahoo.com,2020-10-01 17:36:14.245,2020-10-21 05:05:27.481884,2020-10-23 17:47:19.798,2020-10-30 08:38:15.792,1000000.0,IDR,Mandiri,Success
+122,Martani Hastuti,martanihastuti@gmail.com,gmail.com,2016-02-09 07:13:13.610,2016-02-27 03:00:38.510181,2016-03-05 23:45:39.355,2016-03-11 15:34:03.475,7000000.0,IDR,Mandiri,Success
+123,Cahyadi Hassanah,cahyadihassanah@gmail.com,gmail.com,2015-06-30 17:07:51.471,2015-07-06 02:06:00.974684,2015-07-06 03:03:56.884,2015-07-11 04:10:10.503,1000000.0,IDR,BCA,Success
+124,Purwadi Prabowo,purwadiprabowo@hotmail.com,hotmail.com,2021-11-21 06:27:09.533,Tidak Ada Data,2021-12-14 06:01:32.181,2021-12-17 15:31:11.502,15000000.0,IDR,BNI,Waiting
+125,Prabowo Rahayu,praboworahayu@gmail.com,gmail.com,2020-12-05 23:28:53.982,Tidak Ada Data,2020-12-29 16:39:37.056,2021-01-02 20:13:49.997,7000000.0,IDR,BSI,Failed
+126,Danuja Widiastuti,danujawidiastuti@yahoo.com,yahoo.com,2019-01-01 22:26:05.693,2019-01-07 20:07:31.978088,2019-01-10 16:13:01.823,2019-01-18 16:14:09.067,1000000.0,IDR,Mandiri,Success
+127,Jane Padmasari,janepadmasari@gmail.com,gmail.com,2022-06-27 20:11:57.034,2022-06-27 21:28:30.793051,2022-06-28 07:13:21.358,2022-07-03 19:40:58.155,5000000.0,IDR,BNI,Success
+128,Dasa Purnawati,dasapurnawati@gmail.com,gmail.com,2021-05-31 08:23:15.544,2021-06-19 03:11:07.682870,2021-06-21 20:28:16.700,2021-06-22 02:31:09.640,11000000.0,IDR,BCA,Success
+129,Kamila Hutasoit,kamilahutasoit@hotmail.com,hotmail.com,2019-10-29 09:24:29.719,2019-11-19 15:57:14.924264,2019-11-22 04:12:02.314,2019-12-02 01:18:19.581,7000000.0,IDR,BRI,Success
+130,Dian Waluyo,dianwaluyo@hotmail.com,hotmail.com,2015-09-09 14:43:35.563,Tidak Ada Data,2015-09-30 13:59:15.409,2015-10-03 18:44:14.065,5000000.0,IDR,BNI,Failed
+131,Lala Widodo,lalawidodo@yahoo.com,yahoo.com,2021-11-28 22:32:08.013,2021-12-03 07:44:11.045988,2021-12-04 07:24:19.517,2021-12-16 22:40:23.267,3000000.0,IDR,BRI,Success
+132,Harjo Pradipta,harjopradipta@hotmail.com,hotmail.com,2016-08-07 23:42:10.885,2016-08-09 18:32:53.807626,2016-08-09 20:04:05.426,2016-08-23 04:43:52.724,15000000.0,IDR,Dana,Success
+133,Naradi Siregar,naradisiregar@yahoo.com,yahoo.com,2019-02-01 10:52:21.936,2019-02-16 16:28:10.458898,2019-02-18 08:43:03.965,2019-02-26 01:28:52.679,9000000.0,IDR,Ovo,Success
+134,Timbul Jailani,timbuljailani@yahoo.com,yahoo.com,2023-12-20 20:04:29.644,2023-12-27 10:44:03.834656,2024-01-16 01:01:08.301,2024-01-18 00:29:29.252,5000000.0,IDR,Permata,Success
+135,Hesti Ardianto,hestiardianto@yahoo.com,yahoo.com,2018-12-31 18:01:09.633,Tidak Ada Data,2019-01-25 03:46:40.861,2019-01-31 00:58:09.679,13000000.0,IDR,BCA,Failed
+136,Harja Wastuti,harjawastuti@hotmail.com,hotmail.com,2019-01-03 04:50:47.743,2019-01-17 16:20:27.255987,2019-01-21 12:01:07.673,2019-01-25 20:08:13.585,1000000.0,IDR,BNI,Success
+137,Jane Hastuti,janehastuti@yahoo.com,yahoo.com,2017-08-05 17:33:53.124,2017-08-23 13:03:48.717315,2017-08-23 22:12:07.577,2017-08-28 08:57:08.942,9000000.0,IDR,BNI,Success
+138,Citra Namaga,citranamaga@gmail.com,gmail.com,2016-01-05 19:55:56.881,2016-01-19 20:59:48.846173,2016-02-03 11:05:40.177,2016-02-16 23:05:34.603,15000000.0,IDR,Mandiri,Success
+139,Estiawan Saragih,estiawansaragih@hotmail.com,hotmail.com,2016-08-30 18:52:49.985,2016-09-15 14:06:21.733799,2016-09-20 18:18:02.814,2016-09-25 21:35:42.582,1000000.0,IDR,Ovo,Success
+140,Atmaja Purnawati,atmajapurnawati@yahoo.com,yahoo.com,2022-10-30 07:12:52.566,Tidak Ada Data,2022-11-17 16:59:36.532,2022-11-21 15:08:45.685,3000000.0,IDR,Permata,Waiting
+141,Harja Wastuti,harjawastuti@hotmail.com,hotmail.com,2023-04-05 05:25:30.058,2023-04-15 00:03:55.370521,2023-04-23 22:20:21.380,2023-05-04 16:58:19.782,3000000.0,IDR,Ovo,Success
+142,Lega Hariyah,legahariyah@gmail.com,gmail.com,2019-04-20 08:08:33.940,2019-04-28 02:43:52.750954,2019-05-01 09:17:16.101,2019-05-04 18:56:33.818,15000000.0,IDR,BCA,Success
+143,Lutfan Salahudin,lutfansalahudin@yahoo.com,yahoo.com,2020-01-24 09:19:54.120,2020-02-12 04:01:19.147107,2020-02-18 04:48:48.000,2020-02-19 18:12:52.126,13000000.0,IDR,BCA,Success
+144,Gara Pertiwi,garapertiwi@hotmail.com,hotmail.com,2023-06-15 17:47:40.479,2023-06-16 09:27:51.715434,2023-06-20 13:00:25.590,2023-07-01 21:36:58.781,3000000.0,IDR,Dana,Success
+145,Empluk Saptono,empluksaptono@gmail.com,gmail.com,2021-02-16 23:47:32.608,2021-02-18 03:52:24.319035,2021-02-18 04:20:31.544,2021-02-21 16:26:50.769,7000000.0,IDR,BRI,Success
+146,Salimah Sihombing,salimahsihombing@hotmail.com,hotmail.com,2017-03-20 08:12:50.173,2017-04-10 19:59:18.441268,2017-04-16 11:33:13.071,2017-04-24 12:39:27.505,7000000.0,IDR,BRI,Success
+147,Lantar Suryono,lantarsuryono@yahoo.com,yahoo.com,2021-04-18 22:04:54.571,2021-04-23 16:18:27.078322,2021-05-11 13:05:54.158,2021-05-15 12:37:23.959,15000000.0,IDR,Ovo,Success
+148,Ratna Hakim,ratnahakim@hotmail.com,hotmail.com,2016-02-04 15:19:31.513,Tidak Ada Data,2016-02-14 13:49:58.485,2016-02-21 23:36:14.302,15000000.0,IDR,Mandiri,Failed
+149,Fathonah Anggraini,fathonahanggraini@hotmail.com,hotmail.com,2023-06-23 11:23:59.016,2023-07-02 19:06:42.710580,2023-07-08 15:59:43.652,2023-07-21 08:27:35.717,3000000.0,IDR,BRI,Success
+150,Embuh Saptono,embuhsaptono@yahoo.com,yahoo.com,2018-05-01 08:51:59.806,2018-05-06 16:53:47.963211,2018-05-25 05:22:03.362,2018-05-31 11:22:45.011,9000000.0,IDR,BSI,Success
+151,Prabu Aryani,prabuaryani@hotmail.com,hotmail.com,2023-11-05 10:27:21.892,2023-11-09 03:16:16.765855,2023-11-15 02:23:12.644,2023-11-24 02:55:22.967,1000000.0,IDR,Mandiri,Success
+152,Vivi Ardianto,viviardianto@hotmail.com,hotmail.com,2023-06-20 10:11:42.957,2023-06-22 09:39:10.432771,2023-07-01 14:29:01.573,2023-07-10 06:10:15.259,1000000.0,IDR,Mandiri,Success
+153,Kacung Wibisono,kacungwibisono@hotmail.com,hotmail.com,2021-11-26 03:37:20.138,Tidak Ada Data,2021-12-03 04:39:34.368,2021-12-14 14:27:32.364,11000000.0,IDR,Ovo,Failed
+154,Kanda Puspita,kandapuspita@hotmail.com,hotmail.com,2016-04-09 18:14:35.000,2016-04-25 14:38:10.901873,2016-05-01 00:16:38.640,2016-05-06 07:02:47.121,9000000.0,IDR,BNI,Success
+155,Ayu Hariyah,ayuhariyah@hotmail.com,hotmail.com,2020-04-22 16:20:11.610,2020-05-13 00:04:55.988451,2020-05-15 15:09:54.575,2020-05-27 19:08:45.406,11000000.0,IDR,BSI,Success
+156,Gandewa Permadi,gandewapermadi@hotmail.com,hotmail.com,2023-08-09 18:06:37.976,2023-08-19 21:28:52.649657,2023-08-31 21:53:59.630,2023-09-14 20:26:25.640,7000000.0,IDR,BRI,Success
+157,Rafi Hidayanto,rafihidayanto@hotmail.com,hotmail.com,2019-01-08 09:13:37.119,2019-01-19 12:24:41.549844,2019-02-03 03:15:15.424,2019-02-14 02:16:26.506,3000000.0,IDR,Permata,Success
+158,Wani Melani,wanimelani@hotmail.com,hotmail.com,2020-07-08 20:37:52.670,2020-07-09 22:46:56.511708,2020-07-13 21:40:44.117,2020-07-27 06:41:33.408,9000000.0,IDR,Dana,Success
+159,Imam Padmasari,imampadmasari@yahoo.com,yahoo.com,2018-09-22 00:44:04.937,2018-09-29 23:17:15.479576,2018-10-11 19:59:25.513,2018-10-20 00:40:21.300,3000000.0,IDR,BRI,Success
+160,Panca Saptono,pancasaptono@yahoo.com,yahoo.com,2019-02-04 02:08:38.368,2019-02-20 12:15:47.369503,2019-02-22 16:52:55.972,2019-03-07 03:39:24.121,3000000.0,IDR,BNI,Success
+161,Ega Mardhiyah,egamardhiyah@hotmail.com,hotmail.com,2018-05-15 13:23:20.715,2018-06-02 12:08:18.753743,2018-06-02 16:31:51.790,2018-06-07 12:59:36.636,11000000.0,IDR,BCA,Success
+162,Lega Januar,legajanuar@yahoo.com,yahoo.com,2017-04-07 22:22:39.403,2017-04-12 13:50:29.168003,2017-05-07 19:18:39.389,2017-05-11 20:26:09.759,3000000.0,IDR,BRI,Success
+163,Kezia Firmansyah,keziafirmansyah@gmail.com,gmail.com,2018-06-09 07:47:25.410,2018-06-22 13:27:13.404152,2018-07-09 17:18:30.420,2018-07-14 03:50:17.222,1000000.0,IDR,Permata,Success
+164,Najwa Simbolon,najwasimbolon@yahoo.com,yahoo.com,2018-02-18 05:46:32.044,2018-03-07 00:43:44.620445,2018-03-10 12:02:59.063,2018-03-23 09:23:56.599,1000000.0,IDR,BSI,Success
+165,Hendri Hidayat,hendrihidayat@hotmail.com,hotmail.com,2020-06-21 03:26:32.374,2020-06-30 03:24:01.348148,2020-07-11 18:20:39.305,2020-07-16 01:04:13.679,5000000.0,IDR,Ovo,Success
+166,Bakianto Prastuti,bakiantoprastuti@hotmail.com,hotmail.com,2021-12-24 13:24:57.404,2022-01-21 01:54:04.836545,2022-01-23 11:53:46.645,2022-01-26 16:23:17.979,11000000.0,IDR,BNI,Success
+167,Harja Wastuti,harjawastuti@hotmail.com,hotmail.com,2015-12-12 10:53:00.493,2015-12-22 05:55:21.989877,2015-12-29 15:27:54.764,2016-01-12 08:58:12.690,15000000.0,IDR,BNI,Success
+168,Elvina Situmorang,elvinasitumorang@gmail.com,gmail.com,2021-06-23 00:51:55.937,2021-07-03 19:29:06.646382,2021-07-07 01:21:52.214,2021-07-08 17:13:33.727,15000000.0,IDR,Permata,Success
+169,Catur Budiyanto,caturbudiyanto@yahoo.com,yahoo.com,2016-02-11 12:12:39.145,2016-02-11 16:02:36.491204,2016-02-14 15:31:48.214,2016-02-17 13:24:33.740,15000000.0,IDR,BSI,Success
+170,Viktor Maheswara,viktormaheswara@yahoo.com,yahoo.com,2019-12-09 16:29:57.262,2019-12-10 12:37:15.370073,2019-12-11 09:30:54.498,2019-12-22 14:08:09.215,13000000.0,IDR,Permata,Success
+171,Rahman Pradipta,rahmanpradipta@gmail.com,gmail.com,2015-03-21 16:44:43.002,2015-03-26 12:38:54.726878,2015-04-08 09:30:50.754,2015-04-11 05:19:00.996,5000000.0,IDR,BCA,Success
+172,Daru Latupono,darulatupono@hotmail.com,hotmail.com,2018-09-27 01:41:21.886,2018-09-28 06:14:54.129614,2018-10-18 04:59:54.349,2018-10-26 17:53:04.600,9000000.0,IDR,Permata,Success
+173,Vanesa Sitorus,vanesasitorus@hotmail.com,hotmail.com,2019-06-01 08:03:27.347,2019-06-02 07:04:43.993247,2019-06-03 19:54:23.800,2019-06-13 20:06:06.496,15000000.0,IDR,BRI,Success
+174,Gabriella Iswahyudi,gabriellaiswahyudi@gmail.com,gmail.com,2017-09-18 15:58:13.045,2017-09-21 16:33:37.887047,2017-10-18 17:51:43.088,2017-11-01 12:34:02.279,11000000.0,IDR,BSI,Success
+175,Ganjaran Pratiwi,ganjaranpratiwi@hotmail.com,hotmail.com,2015-11-06 15:16:37.248,2015-11-13 06:37:48.464276,2015-11-17 06:47:37.032,2015-11-28 20:25:06.296,9000000.0,IDR,BCA,Success
+176,Purwadi Rahmawati,purwadirahmawati@yahoo.com,yahoo.com,2023-06-08 06:17:20.582,Tidak Ada Data,2023-06-29 22:01:22.599,2023-07-13 03:47:28.674,5000000.0,IDR,BCA,Failed
+177,Rosman Laksmiwati,rosmanlaksmiwati@gmail.com,gmail.com,2023-09-30 16:08:47.468,2023-10-28 03:18:58.367911,2023-10-29 09:51:10.654,2023-11-02 10:41:16.440,15000000.0,IDR,BCA,Success
+178,Setya Rajasa,setyarajasa@yahoo.com,yahoo.com,2022-11-24 23:22:42.395,2022-11-25 20:14:55.940342,2022-11-30 14:20:27.780,2022-12-12 10:42:05.923,7000000.0,IDR,Ovo,Success
+179,Salwa Uyainah,salwauyainah@yahoo.com,yahoo.com,2021-05-11 18:42:06.015,2021-06-05 13:57:59.558218,2021-06-10 01:52:37.988,2021-06-21 02:30:00.279,11000000.0,IDR,Permata,Success
+180,Harjaya Hartati,harjayahartati@yahoo.com,yahoo.com,2018-05-20 22:30:51.744,2018-05-25 02:37:08.440257,2018-06-05 11:57:28.949,2018-06-12 04:43:46.331,3000000.0,IDR,BNI,Success
+181,Sabrina Pratiwi,sabrinapratiwi@yahoo.com,yahoo.com,2022-10-27 05:52:04.082,2022-10-28 15:30:17.644577,2022-11-20 03:35:53.738,2022-11-28 01:33:50.872,11000000.0,IDR,Mandiri,Success
+182,Ghani Marbun,ghanimarbun@yahoo.com,yahoo.com,2022-12-06 00:04:21.953,2022-12-11 00:43:33.338789,2022-12-20 02:54:14.937,2022-12-21 03:38:55.454,5000000.0,IDR,BNI,Success
+183,Reza Wibisono,rezawibisono@yahoo.com,yahoo.com,2016-01-03 10:59:01.953,2016-01-09 19:17:47.198600,2016-01-27 16:18:40.414,2016-02-09 20:22:47.790,3000000.0,IDR,BNI,Success
+184,Laila Siregar,lailasiregar@gmail.com,gmail.com,2020-08-22 06:32:17.465,2020-09-06 18:23:43.109530,2020-09-20 10:14:00.984,2020-09-28 07:58:45.855,9000000.0,IDR,Mandiri,Success
+185,Sidiq Wulandari,sidiqwulandari@hotmail.com,hotmail.com,2017-07-21 04:15:54.522,Tidak Ada Data,2017-08-16 04:47:21.264,2017-08-26 17:10:02.987,3000000.0,IDR,BCA,Failed
+186,Maman Mahendra,mamanmahendra@yahoo.com,yahoo.com,2016-10-18 07:46:43.128,2016-10-27 11:30:25.573634,2016-11-02 17:05:44.200,2016-11-14 19:29:31.397,7000000.0,IDR,BCA,Success
+187,Ikhsan Hidayat,ikhsanhidayat@gmail.com,gmail.com,2022-03-29 18:30:16.546,2022-04-28 07:56:35.947174,2022-04-28 08:10:31.081,2022-05-01 12:00:42.027,15000000.0,IDR,BCA,Success
+188,Digdaya Salahudin,digdayasalahudin@gmail.com,gmail.com,2023-11-12 09:13:05.887,2023-11-21 12:34:46.036125,2023-11-25 15:58:03.148,2023-12-07 12:29:59.283,3000000.0,IDR,BRI,Success
+189,Balidin Habibi,balidinhabibi@yahoo.com,yahoo.com,2020-10-08 20:59:20.613,2020-10-09 00:19:49.261073,2020-10-24 02:49:59.590,2020-11-03 03:03:55.911,9000000.0,IDR,BSI,Success
+190,Ega Pratama,egapratama@hotmail.com,hotmail.com,2023-09-24 08:58:00.630,2023-10-03 14:43:32.484229,2023-10-08 14:35:25.300,2023-10-16 21:05:11.475,15000000.0,IDR,Dana,Success
+191,Ghaliyati Purnawati,ghaliyatipurnawati@gmail.com,gmail.com,2018-11-26 23:47:32.843,2018-12-07 21:55:44.156512,2018-12-08 22:53:02.171,2018-12-20 19:41:32.709,3000000.0,IDR,BRI,Success
+192,Usyi Wijaya,usyiwijaya@hotmail.com,hotmail.com,2021-08-25 09:22:29.832,2021-08-26 17:30:40.715873,2021-08-28 00:34:18.179,2021-08-31 15:19:58.378,7000000.0,IDR,Mandiri,Success
+193,Luwes Hartati,luweshartati@hotmail.com,hotmail.com,2015-12-15 21:47:43.255,2015-12-25 00:50:38.585410,2016-01-04 12:03:11.355,2016-01-15 05:05:11.582,13000000.0,IDR,Dana,Success
+194,Mulya Hutagalung,mulyahutagalung@hotmail.com,hotmail.com,2023-04-05 13:28:30.932,2023-04-10 21:24:44.500267,2023-04-15 01:45:09.596,2023-04-19 01:20:00.434,13000000.0,IDR,BSI,Success
+195,Saka Simbolon,sakasimbolon@yahoo.com,yahoo.com,2018-05-21 11:56:57.785,2018-05-21 12:56:53.241315,2018-05-29 01:28:50.020,2018-05-30 06:44:04.748,5000000.0,IDR,Permata,Success
+196,Mumpuni Jailani,mumpunijailani@hotmail.com,hotmail.com,2018-08-26 02:05:33.665,2018-09-14 07:16:35.215303,2018-09-25 22:10:24.376,2018-10-03 14:55:02.118,15000000.0,IDR,Dana,Success
+197,Daruna Halimah,darunahalimah@hotmail.com,hotmail.com,2015-03-24 01:47:54.543,2015-04-19 14:47:01.301823,2015-04-20 22:04:46.409,2015-04-21 21:20:02.846,11000000.0,IDR,BCA,Success
+198,Lulut Handayani,luluthandayani@yahoo.com,yahoo.com,2018-02-24 19:00:16.220,2018-03-11 06:56:26.821844,2018-03-16 08:08:53.345,2018-03-29 20:16:58.374,3000000.0,IDR,Ovo,Success
+199,Eluh Megantara,eluhmegantara@hotmail.com,hotmail.com,2022-08-28 03:46:07.721,Tidak Ada Data,2022-09-23 14:24:59.100,2022-09-29 21:33:32.431,15000000.0,IDR,Mandiri,Waiting
+200,Embuh Saptono,embuhsaptono@yahoo.com,yahoo.com,2019-06-20 18:07:27.899,2019-07-16 13:36:57.936175,2019-07-17 05:49:57.765,2019-07-23 08:17:55.650,1000000.0,IDR,BSI,Success
+201,Tina Padmasari,tinapadmasari@yahoo.com,yahoo.com,2023-09-02 21:59:48.966,2023-09-11 19:54:54.931093,2023-09-24 04:53:53.233,2023-09-28 06:15:13.456,9000000.0,IDR,Permata,Success
+202,Mariadi Oktaviani,mariadioktaviani@yahoo.com,yahoo.com,2017-06-22 10:51:51.017,2017-06-30 15:58:43.385267,2017-07-16 18:10:36.076,2017-07-22 07:15:24.389,9000000.0,IDR,Dana,Success
+203,Saka Maheswara,sakamaheswara@gmail.com,gmail.com,2018-12-21 07:12:15.102,Tidak Ada Data,2019-01-06 01:49:17.412,2019-01-17 11:52:37.398,3000000.0,IDR,Ovo,Failed
+204,Bahuwarna Yuniar,bahuwarnayuniar@gmail.com,gmail.com,2023-04-12 19:52:39.871,2023-04-12 21:11:14.982286,2023-04-13 00:39:56.231,2023-04-24 07:44:22.137,5000000.0,IDR,BNI,Success
+205,Clara Salahudin,clarasalahudin@yahoo.com,yahoo.com,2015-10-10 03:33:58.034,2015-10-12 01:48:34.172526,2015-10-13 10:14:28.014,2015-10-21 18:02:10.607,15000000.0,IDR,BNI,Success
+206,Dadi Prastuti,dadiprastuti@yahoo.com,yahoo.com,2015-12-18 05:04:30.291,Tidak Ada Data,2016-01-08 08:18:20.591,2016-01-18 20:47:25.667,1000000.0,IDR,Dana,Failed
+207,Wani Firmansyah,wanifirmansyah@gmail.com,gmail.com,2016-10-14 09:11:54.364,Tidak Ada Data,2016-10-18 19:44:29.455,2016-10-23 17:15:41.717,3000000.0,IDR,BNI,Waiting
+208,Lega Januar,legajanuar@yahoo.com,yahoo.com,2016-05-03 22:40:55.537,2016-05-13 18:40:40.985053,2016-05-19 08:29:00.567,2016-05-20 08:50:24.722,5000000.0,IDR,Permata,Success
+209,Raden Tarihoran,radentarihoran@gmail.com,gmail.com,2016-10-08 05:25:38.668,2016-10-09 03:25:04.053241,2016-10-11 02:20:31.404,2016-10-22 05:48:38.095,9000000.0,IDR,BSI,Success
+210,Adhiarja Sirait,adhiarjasirait@gmail.com,gmail.com,2021-04-19 09:32:55.683,Tidak Ada Data,2021-05-04 11:40:27.803,2021-05-06 00:08:12.111,7000000.0,IDR,Mandiri,Failed
+211,Gaman Puspasari,gamanpuspasari@gmail.com,gmail.com,2016-10-08 08:53:44.019,2016-10-13 08:56:58.526401,2016-11-03 00:19:27.595,2016-11-12 23:59:46.618,1000000.0,IDR,BCA,Success
+212,Hardi Iswahyudi,hardiiswahyudi@hotmail.com,hotmail.com,2020-05-01 18:19:27.654,2020-05-14 04:02:06.802668,2020-05-28 08:52:24.379,2020-06-03 00:44:07.202,7000000.0,IDR,BSI,Success
+213,Ade Rahimah,aderahimah@gmail.com,gmail.com,2016-10-23 07:02:00.810,2016-11-05 17:28:24.937820,2016-11-18 20:57:13.745,2016-11-26 15:43:15.958,1000000.0,IDR,BCA,Success
+214,Dian Andriani,dianandriani@gmail.com,gmail.com,2022-02-23 18:26:59.132,2022-03-03 13:23:21.250224,2022-03-12 09:09:20.053,2022-03-14 17:08:06.171,9000000.0,IDR,BCA,Success
+215,Ghaliyati Nuraini,ghaliyatinuraini@gmail.com,gmail.com,2023-02-03 16:47:41.539,2023-02-08 23:31:24.568568,2023-02-10 11:59:51.914,2023-02-18 18:16:55.822,15000000.0,IDR,BSI,Success
+216,Viman Prasetya,vimanprasetya@yahoo.com,yahoo.com,2021-08-23 01:50:36.529,2021-09-05 20:02:53.980494,2021-09-16 12:33:30.562,2021-09-21 01:52:37.275,15000000.0,IDR,Dana,Success
+217,Salwa Dongoran,salwadongoran@gmail.com,gmail.com,2018-08-26 12:17:12.245,2018-09-03 20:55:27.765982,2018-09-08 15:45:41.017,2018-09-22 09:57:14.882,5000000.0,IDR,BSI,Success
+218,Rafi Sihotang,rafisihotang@yahoo.com,yahoo.com,2015-11-09 07:18:13.346,2015-12-01 02:39:54.232538,2015-12-02 21:27:32.109,2015-12-09 09:08:13.725,15000000.0,IDR,BCA,Success
+219,Dimaz Agustina,dimazagustina@yahoo.com,yahoo.com,2015-06-08 04:02:04.142,2015-06-11 03:42:31.347616,2015-07-01 20:02:30.059,2015-07-04 10:16:40.387,15000000.0,IDR,Mandiri,Success
+220,Artanto Pudjiastuti,artantopudjiastuti@hotmail.com,hotmail.com,2023-06-20 19:00:43.532,2023-06-23 12:15:24.316824,2023-06-23 17:58:19.529,2023-07-01 06:09:56.923,9000000.0,IDR,BSI,Success
+221,Cakrawala Halimah,cakrawalahalimah@gmail.com,gmail.com,2018-01-10 09:57:33.559,2018-01-11 11:04:42.695114,2018-01-12 06:19:50.544,2018-01-23 20:30:14.715,1000000.0,IDR,BRI,Success
+222,Karen Haryanto,karenharyanto@yahoo.com,yahoo.com,2020-06-25 04:58:35.452,2020-06-26 20:02:18.341743,2020-07-03 10:41:28.177,2020-07-04 02:53:06.720,13000000.0,IDR,Dana,Success
+223,Gilda Safitri,gildasafitri@gmail.com,gmail.com,2018-03-10 02:15:14.112,2018-03-14 00:05:53.857223,2018-03-18 06:53:15.275,2018-03-24 20:05:34.090,1000000.0,IDR,BSI,Success
+224,Winda Winarno,windawinarno@yahoo.com,yahoo.com,2017-10-01 00:15:57.034,2017-10-19 07:23:35.484841,2017-10-20 09:14:24.800,2017-10-28 13:36:54.729,3000000.0,IDR,Permata,Success
+225,Galih Waluyo,galihwaluyo@yahoo.com,yahoo.com,2020-07-17 13:40:31.124,2020-07-20 22:39:18.375172,2020-08-11 16:51:47.994,2020-08-18 01:06:17.615,15000000.0,IDR,Mandiri,Success
+226,Yessi Nasyiah,yessinasyiah@hotmail.com,hotmail.com,2017-12-04 20:24:25.417,2017-12-09 03:06:15.212638,2017-12-25 11:38:15.188,2018-01-02 21:27:35.845,11000000.0,IDR,Permata,Success
+227,Empluk Najmudin,empluknajmudin@gmail.com,gmail.com,2018-02-12 23:16:47.006,Tidak Ada Data,2018-02-14 17:08:54.830,2018-02-26 13:23:07.300,3000000.0,IDR,Dana,Failed
+228,Rosman Mulyani,rosmanmulyani@hotmail.com,hotmail.com,2018-01-14 23:02:38.894,2018-01-19 16:14:23.656084,2018-01-25 07:28:29.570,2018-01-28 13:55:47.450,1000000.0,IDR,Dana,Success
+229,Eman Halimah,emanhalimah@hotmail.com,hotmail.com,2022-03-25 15:46:47.237,2022-03-27 20:02:38.283984,2022-03-31 02:10:09.353,2022-04-08 13:41:47.472,5000000.0,IDR,Dana,Success
+230,Kunthara Agustina,kuntharaagustina@yahoo.com,yahoo.com,2019-05-15 19:13:30.970,Tidak Ada Data,2019-05-23 21:16:33.984,2019-06-04 15:14:30.444,11000000.0,IDR,BSI,Waiting
+231,Bakti Narpati,baktinarpati@gmail.com,gmail.com,2016-10-08 06:10:41.904,2016-10-25 03:43:30.461061,2016-10-28 22:53:35.044,2016-11-03 09:27:00.483,9000000.0,IDR,Mandiri,Success
+232,Tedi Purnawati,tedipurnawati@yahoo.com,yahoo.com,2019-01-30 12:18:09.839,2019-02-03 15:59:34.169787,2019-02-14 10:17:47.559,2019-02-24 09:40:12.840,1000000.0,IDR,Ovo,Success
+233,Manah Rahimah,manahrahimah@gmail.com,gmail.com,2021-05-31 06:53:15.762,2021-06-14 09:47:19.428932,2021-06-28 03:43:23.767,2021-07-06 10:43:54.952,3000000.0,IDR,Mandiri,Success
+234,Saka Maheswara,sakamaheswara@gmail.com,gmail.com,2022-08-01 10:39:32.156,2022-08-07 17:39:26.949316,2022-08-19 22:58:19.237,2022-08-21 00:55:30.194,15000000.0,IDR,Ovo,Success
+235,Karta Sihombing,kartasihombing@hotmail.com,hotmail.com,2020-04-04 14:33:24.668,2020-04-07 11:38:02.680159,2020-04-08 01:44:46.336,2020-04-16 01:51:25.022,3000000.0,IDR,BCA,Success
+236,Perkasa Hariyah,perkasahariyah@gmail.com,gmail.com,2015-04-20 00:06:42.390,2015-04-21 09:30:06.534575,2015-05-06 12:52:16.025,2015-05-12 04:56:16.108,15000000.0,IDR,Permata,Success
+237,Hesti Wijayanti,hestiwijayanti@hotmail.com,hotmail.com,2018-02-15 14:28:16.331,2018-02-25 12:57:31.460561,2018-03-14 18:02:14.486,2018-03-18 04:00:30.716,11000000.0,IDR,BRI,Success
+238,Janet Habibi,janethabibi@hotmail.com,hotmail.com,2022-04-03 15:01:12.111,2022-05-02 03:58:35.121094,2022-05-02 23:40:13.285,2022-05-09 17:21:07.157,3000000.0,IDR,Mandiri,Success
+239,Ega Usamah,egausamah@hotmail.com,hotmail.com,2020-06-25 19:50:11.899,2020-06-28 05:13:58.215332,2020-07-02 19:27:43.043,2020-07-16 03:50:19.733,15000000.0,IDR,BSI,Success
+240,Cahyono Kusumo,cahyonokusumo@hotmail.com,hotmail.com,2021-10-11 01:40:06.327,2021-10-25 19:58:26.962535,2021-11-07 07:41:07.130,2021-11-17 16:36:20.409,7000000.0,IDR,BSI,Success
+241,Jono Maryadi,jonomaryadi@hotmail.com,hotmail.com,2016-01-19 10:19:12.907,2016-01-21 03:20:08.047553,2016-01-26 08:08:00.170,2016-02-08 21:50:36.990,7000000.0,IDR,BNI,Success
+242,Darmaji Prakasa,darmajiprakasa@hotmail.com,hotmail.com,2018-05-10 19:17:48.392,2018-05-21 01:42:20.735127,2018-06-08 20:48:03.780,2018-06-18 16:54:02.135,13000000.0,IDR,BRI,Success
+243,Ikhsan Fujiati,ikhsanfujiati@yahoo.com,yahoo.com,2021-10-18 10:33:13.811,Tidak Ada Data,2021-10-22 01:37:20.262,2021-10-25 22:35:25.866,9000000.0,IDR,BNI,Waiting
+244,Puti Kusmawati,putikusmawati@yahoo.com,yahoo.com,2022-10-21 14:08:52.314,Tidak Ada Data,2022-11-09 14:17:35.337,2022-11-12 16:13:08.777,1000000.0,IDR,BNI,Waiting
+245,Gada Simanjuntak,gadasimanjuntak@yahoo.com,yahoo.com,2020-05-07 00:09:00.504,2020-05-09 11:38:24.149725,2020-05-14 18:51:47.589,2020-05-25 13:54:08.504,3000000.0,IDR,BSI,Success
+246,Marwata Mangunsong,marwatamangunsong@hotmail.com,hotmail.com,2021-05-08 14:57:40.773,Tidak Ada Data,2021-06-04 23:19:11.587,2021-06-08 00:11:25.946,13000000.0,IDR,Mandiri,Failed
+247,Putri Sirait,putrisirait@yahoo.com,yahoo.com,2022-05-29 06:53:15.053,2022-06-04 02:24:07.855151,2022-06-22 19:43:31.582,2022-07-02 12:57:51.068,5000000.0,IDR,BCA,Success
+248,Shakila Sitorus,shakilasitorus@yahoo.com,yahoo.com,2021-01-26 21:17:58.425,2021-01-27 16:35:05.086844,2021-01-28 01:37:56.048,2021-02-06 15:41:39.335,15000000.0,IDR,BNI,Success
+249,Aslijan Hastuti,aslijanhastuti@gmail.com,gmail.com,2022-11-02 22:43:48.393,2022-11-20 21:53:14.931143,2022-11-23 11:24:37.072,2022-12-01 17:00:54.410,15000000.0,IDR,BNI,Success
+250,Daru Latupono,darulatupono@hotmail.com,hotmail.com,2015-04-03 07:34:48.228,2015-04-20 03:28:46.821408,2015-04-25 09:52:54.235,2015-05-07 16:23:54.526,7000000.0,IDR,BNI,Success
+251,Gantar Marbun,gantarmarbun@gmail.com,gmail.com,2018-04-28 11:42:43.638,2018-04-30 22:13:32.320328,2018-05-25 16:01:01.008,2018-06-05 00:35:08.424,7000000.0,IDR,BNI,Success
+252,Citra Halim,citrahalim@gmail.com,gmail.com,2020-12-10 14:37:47.709,Tidak Ada Data,2020-12-25 21:45:59.397,2020-12-30 06:17:22.207,15000000.0,IDR,Ovo,Failed
+253,Ismail Rajata,ismailrajata@yahoo.com,yahoo.com,2017-01-10 16:01:27.397,2017-02-09 13:31:25.833385,2017-02-09 21:36:22.867,2017-02-15 06:13:35.094,1000000.0,IDR,BSI,Success
+254,Omar Winarno,omarwinarno@gmail.com,gmail.com,2023-11-14 10:44:03.338,2023-11-17 07:20:53.477432,2023-11-20 20:14:58.918,2023-11-27 00:34:16.951,11000000.0,IDR,BNI,Success
+255,Rangga Rahimah,ranggarahimah@yahoo.com,yahoo.com,2018-09-02 14:12:36.801,Tidak Ada Data,2018-09-22 04:47:15.281,2018-10-01 23:26:43.683,3000000.0,IDR,BNI,Waiting
+256,Julia Iswahyudi,juliaiswahyudi@yahoo.com,yahoo.com,2018-04-09 01:03:54.284,2018-04-09 05:03:50.140524,2018-04-27 13:01:02.680,2018-05-08 23:44:07.692,9000000.0,IDR,BSI,Success
+257,Mariadi Dongoran,mariadidongoran@gmail.com,gmail.com,2022-12-30 03:06:34.518,2023-01-23 13:50:21.538284,2023-01-26 09:20:53.971,2023-01-27 00:05:55.439,15000000.0,IDR,BSI,Success
+258,Hasim Samosir,hasimsamosir@hotmail.com,hotmail.com,2023-11-14 16:40:02.361,2023-11-18 12:16:38.661004,2023-11-27 08:28:45.430,2023-12-05 09:23:44.057,3000000.0,IDR,Mandiri,Success
+259,Jinawi Purnawati,jinawipurnawati@gmail.com,gmail.com,2017-12-26 21:39:28.405,2017-12-29 01:46:34.811833,2017-12-30 15:15:22.642,2018-01-12 01:55:07.138,3000000.0,IDR,Mandiri,Success
+260,Danu Mardhiyah,danumardhiyah@hotmail.com,hotmail.com,2019-12-13 00:00:10.569,2019-12-20 10:34:23.598246,2020-01-04 22:53:57.018,2020-01-05 07:27:02.526,7000000.0,IDR,BSI,Success
+261,Ajeng Firmansyah,ajengfirmansyah@yahoo.com,yahoo.com,2020-07-19 23:58:00.022,2020-08-08 14:41:42.625870,2020-08-15 17:24:39.496,2020-08-29 09:23:59.315,11000000.0,IDR,BSI,Success
+262,Mahfud Suartini,mahfudsuartini@gmail.com,gmail.com,2019-10-17 17:45:44.385,2019-11-02 23:24:51.489397,2019-11-06 04:14:32.038,2019-11-16 09:06:15.573,9000000.0,IDR,Mandiri,Success
+263,Najib Napitupulu,najibnapitupulu@yahoo.com,yahoo.com,2021-11-15 08:38:50.474,Tidak Ada Data,2021-12-08 13:55:18.399,2021-12-11 14:34:06.424,3000000.0,IDR,BRI,Failed
+264,Belinda Salahudin,belindasalahudin@hotmail.com,hotmail.com,2016-03-09 01:28:32.883,2016-03-19 02:13:46.045346,2016-03-30 18:34:36.535,2016-04-03 16:16:49.447,5000000.0,IDR,Dana,Success
+265,Ilsa Hidayat,ilsahidayat@yahoo.com,yahoo.com,2017-12-12 11:53:32.819,Tidak Ada Data,2017-12-29 07:36:49.771,2018-01-11 02:34:38.692,15000000.0,IDR,BRI,Waiting
+266,Tiara Latupono,tiaralatupono@hotmail.com,hotmail.com,2022-11-02 14:55:53.417,Tidak Ada Data,2022-11-29 12:57:13.076,2022-12-01 16:39:39.920,3000000.0,IDR,BRI,Failed
+267,Rahayu Salahudin,rahayusalahudin@hotmail.com,hotmail.com,2023-09-26 01:02:09.377,2023-09-30 18:46:42.445302,2023-10-03 17:28:15.585,2023-10-04 10:09:38.902,5000000.0,IDR,BNI,Success
+268,Nurul Palastri,nurulpalastri@yahoo.com,yahoo.com,2016-08-20 03:16:09.288,2016-08-21 20:01:50.637755,2016-08-23 10:51:40.359,2016-08-31 00:54:53.982,13000000.0,IDR,BRI,Success
+269,Calista Latupono,calistalatupono@gmail.com,gmail.com,2021-03-25 21:16:15.184,2021-03-27 13:40:20.538756,2021-04-22 10:55:14.680,2021-05-05 05:55:27.864,15000000.0,IDR,Mandiri,Success
+270,Galang Astuti,galangastuti@gmail.com,gmail.com,2022-01-14 06:31:11.800,2022-01-19 21:23:53.052090,2022-01-20 08:44:03.688,2022-01-31 05:52:45.099,1000000.0,IDR,Ovo,Success
+271,Ika Samosir,ikasamosir@yahoo.com,yahoo.com,2019-12-21 12:56:46.126,2020-01-14 00:33:00.323450,2020-01-17 13:46:15.259,2020-01-25 12:39:43.526,15000000.0,IDR,Permata,Success
+272,Gaiman Mangunsong,gaimanmangunsong@gmail.com,gmail.com,2016-08-29 11:13:49.459,2016-08-30 00:48:26.597469,2016-08-30 02:58:17.357,2016-09-03 08:36:36.011,1000000.0,IDR,Ovo,Success
+273,Lega Januar,legajanuar@yahoo.com,yahoo.com,2015-04-10 19:51:18.168,2015-04-16 14:35:04.677999,2015-04-18 00:30:18.634,2015-05-02 06:39:32.343,15000000.0,IDR,BNI,Success
+274,Oni Sitorus,onisitorus@yahoo.com,yahoo.com,2020-04-15 13:47:51.597,2020-04-17 16:31:47.154361,2020-04-20 09:12:39.386,2020-04-24 10:09:32.327,1000000.0,IDR,BCA,Success
+275,Gabriella Iswahyudi,gabriellaiswahyudi@gmail.com,gmail.com,2017-03-23 12:04:53.750,2017-03-25 07:18:38.900871,2017-03-30 02:22:41.238,2017-04-09 05:51:36.098,15000000.0,IDR,Permata,Success
+276,Cawisadi Kuswandari,cawisadikuswandari@yahoo.com,yahoo.com,2019-12-05 04:52:43.045,2019-12-05 05:02:46.118407,2019-12-07 22:40:42.955,2019-12-14 05:54:10.445,11000000.0,IDR,BRI,Success
+277,Maryanto Padmasari,maryantopadmasari@gmail.com,gmail.com,2018-08-18 22:15:59.023,Tidak Ada Data,2018-08-24 16:37:38.919,2018-08-25 13:23:44.049,7000000.0,IDR,Mandiri,Failed
+278,Halim Nashiruddin,halimnashiruddin@gmail.com,gmail.com,2017-03-26 20:33:25.627,2017-03-28 22:55:07.672576,2017-03-29 08:27:33.783,2017-04-06 15:18:10.218,1000000.0,IDR,BRI,Success
+279,Perkasa Hariyah,perkasahariyah@gmail.com,gmail.com,2015-04-03 17:13:51.782,2015-04-04 09:46:54.309551,2015-04-15 04:43:14.784,2015-04-24 02:08:40.643,7000000.0,IDR,BSI,Success
+280,Digdaya Salahudin,digdayasalahudin@gmail.com,gmail.com,2016-09-29 21:49:44.258,Tidak Ada Data,2016-10-09 18:40:04.996,2016-10-19 06:45:23.596,5000000.0,IDR,BSI,Waiting
+281,Dono Budiman,donobudiman@gmail.com,gmail.com,2017-02-18 12:19:37.430,Tidak Ada Data,2017-03-04 13:56:06.025,2017-03-10 00:04:51.833,13000000.0,IDR,BNI,Failed
+282,Rahayu Salahudin,rahayusalahudin@hotmail.com,hotmail.com,2016-08-26 04:35:19.797,2016-08-31 09:49:51.452644,2016-09-17 20:46:22.007,2016-09-28 04:42:42.468,1000000.0,IDR,BNI,Success
+283,Agnes Mandala,agnesmandala@yahoo.com,yahoo.com,2020-08-05 04:59:11.309,2020-08-24 04:30:29.140037,2020-08-31 06:23:01.469,2020-09-05 08:38:30.251,3000000.0,IDR,Ovo,Success
+284,Ratna Pradipta,ratnapradipta@yahoo.com,yahoo.com,2022-04-21 22:44:53.862,2022-04-27 10:40:32.211323,2022-05-05 04:51:49.785,2022-05-12 17:41:12.113,11000000.0,IDR,Dana,Success
+285,Hamzah Melani,hamzahmelani@hotmail.com,hotmail.com,2020-08-25 10:01:33.019,2020-08-26 05:45:25.304386,2020-08-26 15:39:02.606,2020-08-30 06:18:42.723,15000000.0,IDR,BNI,Success
+286,Rafi Sihotang,rafisihotang@yahoo.com,yahoo.com,2018-11-05 14:40:49.549,2018-11-09 09:38:33.444907,2018-11-10 10:20:06.570,2018-11-21 02:08:46.278,11000000.0,IDR,BNI,Success
+287,Luhung Andriani,luhungandriani@hotmail.com,hotmail.com,2023-03-24 14:59:16.539,2023-03-24 21:44:18.613293,2023-04-04 07:38:34.227,2023-04-17 13:39:55.332,15000000.0,IDR,BRI,Success
+288,Kasiyah Kusmawati,kasiyahkusmawati@hotmail.com,hotmail.com,2023-09-25 19:17:56.488,2023-10-02 09:56:34.079062,2023-10-04 03:53:46.398,2023-10-05 21:24:20.478,1000000.0,IDR,BRI,Success
+289,Ida Tarihoran,idatarihoran@hotmail.com,hotmail.com,2018-05-28 16:36:56.909,2018-05-29 01:51:14.073540,2018-06-15 01:44:37.848,2018-06-20 20:22:58.987,3000000.0,IDR,BRI,Success
+290,Bakiadi Prastuti,bakiadiprastuti@gmail.com,gmail.com,2017-05-08 05:24:34.735,2017-05-15 20:56:47.254271,2017-05-27 10:44:48.791,2017-06-01 11:45:41.512,5000000.0,IDR,Mandiri,Success
+291,Utama Rahimah,utamarahimah@gmail.com,gmail.com,2018-11-12 23:15:52.542,2018-11-13 09:21:15.423516,2018-11-13 13:27:53.411,2018-11-23 12:26:13.965,15000000.0,IDR,BCA,Success
+292,Warsita Susanti,warsitasusanti@hotmail.com,hotmail.com,2017-05-02 03:26:50.225,2017-05-03 02:05:12.743555,2017-05-15 12:41:43.746,2017-05-24 23:38:38.165,7000000.0,IDR,Ovo,Success
+293,Gamanto Siregar,gamantosiregar@gmail.com,gmail.com,2021-10-18 02:27:21.056,2021-10-27 00:14:21.772166,2021-10-27 02:55:54.653,2021-11-08 08:22:29.619,11000000.0,IDR,Mandiri,Success
+294,Naradi Siregar,naradisiregar@yahoo.com,yahoo.com,2022-11-16 10:39:42.945,2022-11-19 20:21:49.492666,2022-11-22 07:54:16.495,2022-12-06 22:09:01.958,9000000.0,IDR,Permata,Success
+295,Prasetya Hasanah,prasetyahasanah@yahoo.com,yahoo.com,2022-04-06 00:28:31.700,2022-04-10 00:41:33.419674,2022-04-10 09:38:46.309,2022-04-14 17:17:04.194,15000000.0,IDR,BNI,Success
+296,Zelaya Narpati,zelayanarpati@gmail.com,gmail.com,2022-04-26 22:46:29.411,Tidak Ada Data,2022-05-12 18:50:23.373,2022-05-18 11:11:12.363,3000000.0,IDR,BRI,Failed
+297,Kezia Firmansyah,keziafirmansyah@gmail.com,gmail.com,2015-04-27 05:49:20.879,2015-04-30 16:32:04.208281,2015-05-03 23:51:39.516,2015-05-12 20:16:33.885,15000000.0,IDR,BNI,Success
+298,Ida Pratama,idapratama@gmail.com,gmail.com,2018-01-12 05:34:15.797,2018-01-12 08:53:36.379080,2018-01-18 16:01:12.467,2018-01-26 10:11:34.991,3000000.0,IDR,Dana,Success
+299,Warta Novitasari,wartanovitasari@gmail.com,gmail.com,2017-12-01 02:42:21.034,2017-12-02 18:34:00.559462,2017-12-14 04:04:42.682,2017-12-16 08:09:19.646,3000000.0,IDR,Dana,Success
+300,Danuja Hartati,danujahartati@hotmail.com,hotmail.com,2022-04-29 16:22:19.485,2022-05-13 19:02:30.335670,2022-05-24 05:55:48.653,2022-05-31 15:13:33.761,1000000.0,IDR,BRI,Success
+301,Luwes Hartati,luweshartati@hotmail.com,hotmail.com,2023-04-08 11:13:30.319,2023-04-09 17:53:24.568597,2023-04-13 05:43:18.766,2023-04-18 02:42:02.161,13000000.0,IDR,Mandiri,Success
+302,Cengkir Puspita,cengkirpuspita@yahoo.com,yahoo.com,2020-09-06 05:58:26.649,Tidak Ada Data,2020-09-19 11:00:19.871,2020-10-01 04:15:58.750,9000000.0,IDR,Ovo,Failed
+303,Tedi Purnawati,tedipurnawati@yahoo.com,yahoo.com,2015-12-19 16:03:52.114,2015-12-23 05:41:20.751409,2016-01-16 23:29:16.220,2016-01-24 17:43:51.442,15000000.0,IDR,Mandiri,Success
+304,Farah Nasyiah,farahnasyiah@hotmail.com,hotmail.com,2022-03-04 15:32:22.356,2022-03-06 20:33:50.647048,2022-03-23 15:52:44.166,2022-04-05 13:38:11.381,11000000.0,IDR,BRI,Success
+305,Yance Dongoran,yancedongoran@gmail.com,gmail.com,2022-07-16 10:59:11.777,2022-07-21 11:05:28.154399,2022-07-23 18:35:27.425,2022-07-31 08:00:48.185,7000000.0,IDR,Mandiri,Success
+306,Dono Budiman,donobudiman@gmail.com,gmail.com,2015-12-19 05:46:39.282,2015-12-21 05:17:57.482392,2016-01-10 03:08:01.948,2016-01-12 05:03:22.201,15000000.0,IDR,Permata,Success
+307,Gangsa Suryatmi,gangsasuryatmi@hotmail.com,hotmail.com,2023-12-15 09:15:04.802,2023-12-16 04:29:30.000422,2023-12-26 00:14:26.880,2024-01-04 17:40:05.060,9000000.0,IDR,Dana,Success
+308,Jane Latupono,janelatupono@hotmail.com,hotmail.com,2015-12-20 04:19:13.335,2016-01-12 11:08:01.122478,2016-01-16 13:00:30.668,2016-01-20 18:26:33.829,3000000.0,IDR,Mandiri,Success
+309,Murti Marpaung,murtimarpaung@gmail.com,gmail.com,2016-07-27 21:52:15.349,Tidak Ada Data,2016-07-31 02:22:03.685,2016-08-06 14:29:55.950,1000000.0,IDR,BSI,Waiting
+310,Salimah Sihombing,salimahsihombing@hotmail.com,hotmail.com,2018-11-14 11:49:49.081,2018-11-22 23:47:17.844200,2018-12-14 20:11:09.019,2018-12-15 23:05:04.932,5000000.0,IDR,BCA,Success
+311,Mila Purwanti,milapurwanti@gmail.com,gmail.com,2023-09-21 00:26:21.077,Tidak Ada Data,2023-10-15 03:58:00.626,2023-10-25 08:06:55.399,7000000.0,IDR,Permata,Waiting
+312,Hasan Yuniar,hasanyuniar@yahoo.com,yahoo.com,2021-02-09 08:04:53.151,2021-03-06 09:22:10.854069,2021-03-09 17:42:03.326,2021-03-15 03:30:29.112,11000000.0,IDR,BRI,Success
+313,Daru Mansur,darumansur@hotmail.com,hotmail.com,2016-01-02 04:17:04.163,2016-01-09 17:56:23.614673,2016-01-28 00:20:28.287,2016-02-04 13:36:21.382,5000000.0,IDR,BRI,Success
+314,Purwadi Mulyani,purwadimulyani@yahoo.com,yahoo.com,2017-03-06 18:00:38.853,2017-03-08 07:19:37.389295,2017-03-11 00:16:26.142,2017-03-22 04:12:34.745,1000000.0,IDR,BRI,Success
+315,Rosman Nababan,rosmannababan@gmail.com,gmail.com,2018-02-23 18:00:31.444,2018-03-10 21:32:25.730753,2018-03-14 08:40:34.737,2018-03-21 14:46:51.157,11000000.0,IDR,Mandiri,Success
+316,Jarwadi Tarihoran,jarwaditarihoran@hotmail.com,hotmail.com,2015-02-24 06:45:40.499,Tidak Ada Data,2015-03-13 23:30:58.195,2015-03-20 00:25:27.501,11000000.0,IDR,BNI,Waiting
+317,Tedi Purnawati,tedipurnawati@yahoo.com,yahoo.com,2022-08-02 14:35:13.343,2022-08-08 22:07:45.273013,2022-08-28 20:19:16.004,2022-09-06 18:16:58.888,11000000.0,IDR,Dana,Success
+318,Fitria Gunarto,fitriagunarto@gmail.com,gmail.com,2022-03-04 10:33:54.399,2022-03-16 14:40:51.314982,2022-03-25 20:37:05.067,2022-03-26 14:41:07.968,11000000.0,IDR,Mandiri,Success
+319,Luwes Puspita,luwespuspita@yahoo.com,yahoo.com,2018-05-03 08:38:52.684,2018-05-03 16:12:32.329314,2018-05-04 05:38:57.444,2018-05-09 17:30:55.056,15000000.0,IDR,BRI,Success
+320,Malik Simbolon,maliksimbolon@yahoo.com,yahoo.com,2021-03-08 22:01:50.181,2021-03-10 15:40:59.941508,2021-03-19 03:09:13.435,2021-03-23 00:47:44.768,3000000.0,IDR,BCA,Success
+321,Gamanto Siregar,gamantosiregar@gmail.com,gmail.com,2019-10-25 11:46:22.874,Tidak Ada Data,2019-11-23 18:32:10.591,2019-11-24 00:03:20.910,9000000.0,IDR,Permata,Waiting
+322,Kasiran Pranowo,kasiranpranowo@hotmail.com,hotmail.com,2020-05-31 01:48:18.964,2020-06-16 00:33:16.268677,2020-06-27 06:31:51.097,2020-07-08 03:27:40.849,13000000.0,IDR,BCA,Success
+323,Heru Saragih,herusaragih@yahoo.com,yahoo.com,2019-02-09 05:16:44.419,2019-02-24 22:27:24.242775,2019-03-01 05:32:22.033,2019-03-03 13:58:37.198,11000000.0,IDR,BRI,Success
+324,Eluh Kurniawan,eluhkurniawan@yahoo.com,yahoo.com,2020-11-30 12:37:28.468,2020-12-01 11:26:37.494679,2020-12-03 02:39:35.047,2020-12-17 07:08:45.609,1000000.0,IDR,BSI,Success
+325,Gasti Iswahyudi,gastiiswahyudi@gmail.com,gmail.com,2017-10-08 20:18:19.555,Tidak Ada Data,2017-10-13 20:59:49.441,2017-10-23 08:41:27.254,11000000.0,IDR,Dana,Failed
+326,Zelaya Narpati,zelayanarpati@gmail.com,gmail.com,2023-07-08 13:05:09.095,Tidak Ada Data,2023-08-02 23:35:39.946,2023-08-03 22:49:31.132,9000000.0,IDR,BNI,Failed
+327,Galih Anggraini,galihanggraini@yahoo.com,yahoo.com,2018-12-02 09:17:20.573,2018-12-08 22:22:37.332463,2018-12-22 14:26:32.200,2018-12-23 05:56:50.324,1000000.0,IDR,Mandiri,Success
+328,Vanesa Sitorus,vanesasitorus@hotmail.com,hotmail.com,2020-03-20 01:41:40.852,2020-03-27 15:04:04.081583,2020-04-03 23:54:15.415,2020-04-05 04:12:20.837,9000000.0,IDR,BSI,Success
+329,Mursita Prastuti,mursitaprastuti@yahoo.com,yahoo.com,2019-05-06 17:57:16.572,Tidak Ada Data,2019-05-27 05:16:54.784,2019-06-05 02:12:38.584,3000000.0,IDR,Dana,Failed
+330,Hilda Suwarno,hildasuwarno@gmail.com,gmail.com,2021-04-15 17:10:14.649,2021-05-03 13:57:16.799417,2021-05-05 15:44:27.642,2021-05-08 01:45:34.482,15000000.0,IDR,Mandiri,Success
+331,Carub Wijayanti,carubwijayanti@hotmail.com,hotmail.com,2023-01-22 21:08:03.704,2023-02-11 07:57:46.426723,2023-02-21 05:24:46.432,2023-03-05 08:53:10.746,15000000.0,IDR,Ovo,Success
+332,Rosman Nababan,rosmannababan@gmail.com,gmail.com,2018-05-10 13:33:49.714,2018-05-14 23:26:29.780702,2018-05-20 19:10:50.746,2018-05-23 08:16:47.687,3000000.0,IDR,BRI,Success
+333,Jarwi Hutasoit,jarwihutasoit@yahoo.com,yahoo.com,2017-11-20 09:53:34.417,2017-12-01 16:02:49.947459,2017-12-13 14:49:35.759,2017-12-26 11:45:11.171,9000000.0,IDR,Dana,Success
+334,Jelita Uyainah,jelitauyainah@yahoo.com,yahoo.com,2016-11-12 08:36:52.357,2016-12-01 12:55:25.586344,2016-12-03 08:11:41.129,2016-12-05 23:04:28.708,3000000.0,IDR,BRI,Success
+335,Asmadi Nugroho,asmadinugroho@gmail.com,gmail.com,2019-06-07 18:51:04.020,2019-06-25 03:20:35.476888,2019-07-05 18:25:11.855,2019-07-16 22:47:11.897,11000000.0,IDR,Mandiri,Success
+336,Gatot Mahendra,gatotmahendra@yahoo.com,yahoo.com,2015-04-05 03:18:45.376,2015-04-21 08:03:51.220644,2015-04-26 10:10:16.873,2015-04-27 17:32:12.124,13000000.0,IDR,BSI,Success
+337,Oman Farida,omanfarida@yahoo.com,yahoo.com,2018-08-23 19:50:50.961,2018-08-26 23:17:55.605027,2018-09-06 15:32:43.503,2018-09-10 18:09:59.177,15000000.0,IDR,BNI,Success
+338,Ikhsan Fujiati,ikhsanfujiati@yahoo.com,yahoo.com,2018-04-07 09:57:45.195,2018-04-07 15:28:35.192269,2018-04-10 23:21:23.149,2018-04-20 19:20:14.009,13000000.0,IDR,Permata,Success
+339,Devi Kusmawati,devikusmawati@hotmail.com,hotmail.com,2023-02-04 14:50:22.895,Tidak Ada Data,2023-02-11 19:21:27.303,2023-02-21 13:45:58.629,3000000.0,IDR,Permata,Failed
+340,Kadir Sihombing,kadirsihombing@hotmail.com,hotmail.com,2016-06-27 07:44:39.816,Tidak Ada Data,2016-07-17 03:50:33.098,2016-07-22 06:54:05.744,3000000.0,IDR,BNI,Failed
+341,Warsita Yulianti,warsitayulianti@gmail.com,gmail.com,2021-12-18 18:24:25.338,2021-12-19 01:12:27.407285,2021-12-21 07:18:17.496,2021-12-22 05:48:20.745,11000000.0,IDR,Mandiri,Success
+342,Budi Ramadan,budiramadan@yahoo.com,yahoo.com,2021-03-01 09:26:20.235,2021-03-06 01:49:22.066229,2021-03-20 04:19:55.538,2021-04-01 02:27:42.938,11000000.0,IDR,Mandiri,Success
+343,Irwan Hariyah,irwanhariyah@yahoo.com,yahoo.com,2022-10-10 11:43:49.715,2022-10-26 11:56:14.214036,2022-10-28 23:17:05.220,2022-11-11 23:04:35.184,15000000.0,IDR,Dana,Success
+344,Ibrahim Nainggolan,ibrahimnainggolan@hotmail.com,hotmail.com,2022-08-18 11:45:56.722,2022-08-18 13:55:42.364438,2022-08-26 23:21:03.369,2022-09-03 06:29:00.182,5000000.0,IDR,Mandiri,Success
+345,Emong Nainggolan,emongnainggolan@yahoo.com,yahoo.com,2015-07-01 11:39:15.385,Tidak Ada Data,2015-07-23 23:02:23.078,2015-08-01 19:52:59.025,3000000.0,IDR,Mandiri,Waiting
+346,Cici Farida,cicifarida@gmail.com,gmail.com,2019-11-09 03:52:06.194,2019-11-28 21:23:50.921446,2019-11-30 14:39:17.625,2019-12-13 12:39:44.239,11000000.0,IDR,BNI,Success
+347,Gabriella Iswahyudi,gabriellaiswahyudi@gmail.com,gmail.com,2017-06-17 11:39:31.027,2017-06-20 12:23:30.512528,2017-06-22 01:55:36.583,2017-07-05 10:16:26.203,5000000.0,IDR,Permata,Success
+348,Hartaka Nasyiah,hartakanasyiah@gmail.com,gmail.com,2021-01-22 10:29:08.950,2021-01-26 23:15:09.859367,2021-01-29 19:08:28.873,2021-02-05 15:07:58.980,3000000.0,IDR,BSI,Success
+349,Vega Wijaya,vegawijaya@gmail.com,gmail.com,2018-09-03 18:07:32.946,2018-09-06 21:58:06.700745,2018-09-06 23:21:55.677,2018-09-12 18:16:30.137,15000000.0,IDR,Mandiri,Success
+350,Oni Mandala,onimandala@gmail.com,gmail.com,2017-05-28 19:21:10.915,2017-06-10 09:07:01.365411,2017-06-14 00:26:18.932,2017-06-18 03:54:42.063,9000000.0,IDR,BNI,Success
+351,Murti Narpati,murtinarpati@hotmail.com,hotmail.com,2023-02-03 14:30:51.267,2023-02-04 00:35:40.930679,2023-02-04 22:02:48.346,2023-02-16 19:13:01.636,11000000.0,IDR,Dana,Success
+352,Jamil Mustofa,jamilmustofa@hotmail.com,hotmail.com,2017-08-25 13:24:30.355,Tidak Ada Data,2017-08-29 22:00:17.489,2017-09-09 13:36:21.294,1000000.0,IDR,Mandiri,Failed
+353,Garang Purnawati,garangpurnawati@hotmail.com,hotmail.com,2018-06-24 23:41:21.222,2018-07-21 21:13:47.652093,2018-07-22 12:47:27.626,2018-07-29 17:41:56.475,5000000.0,IDR,BCA,Success
+354,Kenes Pangestu,kenespangestu@hotmail.com,hotmail.com,2016-05-11 09:23:48.386,2016-05-13 04:38:52.888296,2016-05-21 11:12:12.024,2016-05-31 23:06:25.970,11000000.0,IDR,Permata,Success
+355,Galih Anggraini,galihanggraini@yahoo.com,yahoo.com,2020-06-08 05:06:04.805,2020-06-14 02:18:01.141927,2020-06-15 12:09:07.544,2020-06-23 09:14:20.369,5000000.0,IDR,BNI,Success
+356,Rosman Hastuti,rosmanhastuti@yahoo.com,yahoo.com,2018-05-21 08:35:03.572,2018-06-15 05:30:56.491822,2018-06-18 12:38:18.793,2018-06-28 05:17:22.429,13000000.0,IDR,BSI,Success
+357,Raden Tarihoran,radentarihoran@gmail.com,gmail.com,2015-12-18 13:41:29.420,2015-12-26 13:04:05.638380,2015-12-30 22:50:19.297,2016-01-08 22:01:48.485,1000000.0,IDR,Ovo,Success
+358,Prayitna Usamah,prayitnausamah@gmail.com,gmail.com,2022-09-17 12:29:57.468,2022-10-01 20:08:14.928963,2022-10-13 00:41:26.293,2022-10-18 22:46:33.311,13000000.0,IDR,BCA,Success
+359,Atmaja Purnawati,atmajapurnawati@yahoo.com,yahoo.com,2023-02-14 16:58:54.971,2023-02-14 17:14:28.157521,2023-02-23 14:51:11.195,2023-03-05 13:31:09.019,7000000.0,IDR,BNI,Success
+360,Galih Waluyo,galihwaluyo@yahoo.com,yahoo.com,2017-10-28 10:27:34.571,Tidak Ada Data,2017-11-10 01:27:48.900,2017-11-13 08:19:33.692,13000000.0,IDR,BCA,Waiting
+361,Gada Simanjuntak,gadasimanjuntak@yahoo.com,yahoo.com,2017-08-04 07:22:22.039,2017-08-04 07:33:26.174709,2017-08-06 22:37:31.529,2017-08-10 23:26:43.177,1000000.0,IDR,BRI,Success
+362,Salimah Sihombing,salimahsihombing@hotmail.com,hotmail.com,2018-02-04 18:00:08.608,2018-02-09 14:12:08.958242,2018-02-12 12:42:59.522,2018-02-26 11:40:59.252,1000000.0,IDR,Permata,Success
+363,Muhammad Tamba,muhammadtamba@gmail.com,gmail.com,2022-10-12 20:31:23.831,2022-11-01 20:25:24.378679,2022-11-02 09:43:01.178,2022-11-10 20:58:01.756,5000000.0,IDR,Dana,Success
+364,Gada Simanjuntak,gadasimanjuntak@yahoo.com,yahoo.com,2015-04-14 08:31:46.402,2015-04-28 21:38:23.612644,2015-04-29 07:52:00.022,2015-05-12 15:58:48.435,1000000.0,IDR,Permata,Success
+365,Jane Padmasari,janepadmasari@gmail.com,gmail.com,2022-10-24 19:55:08.298,2022-10-26 20:48:51.086795,2022-11-15 15:58:41.779,2022-11-16 18:55:54.464,1000000.0,IDR,Dana,Success
+366,Virman Jailani,virmanjailani@gmail.com,gmail.com,2021-09-12 12:17:38.498,2021-09-19 08:24:19.630711,2021-09-19 20:59:47.731,2021-09-20 21:12:30.464,7000000.0,IDR,Permata,Success
+367,Soleh Suwarno,solehsuwarno@hotmail.com,hotmail.com,2023-02-25 01:55:59.491,2023-02-27 21:18:20.276534,2023-03-05 01:47:35.819,2023-03-17 03:40:23.842,1000000.0,IDR,Dana,Success
+368,Heru Saragih,herusaragih@yahoo.com,yahoo.com,2018-04-17 00:05:17.800,Tidak Ada Data,2018-04-26 12:57:12.853,2018-05-05 16:34:25.014,3000000.0,IDR,Mandiri,Waiting
+369,Ayu Hariyah,ayuhariyah@hotmail.com,hotmail.com,2021-08-11 04:54:41.304,2021-08-21 04:40:48.302697,2021-08-25 03:27:43.406,2021-08-28 18:04:21.461,9000000.0,IDR,Ovo,Success
+370,Lasmono Najmudin,lasmononajmudin@hotmail.com,hotmail.com,2020-02-16 20:31:45.629,Tidak Ada Data,2020-02-27 13:25:36.002,2020-03-01 03:43:58.367,11000000.0,IDR,Permata,Waiting
+371,Dalimin Pradana,daliminpradana@yahoo.com,yahoo.com,2018-02-19 13:01:47.562,2018-02-22 18:14:18.947975,2018-02-23 14:31:12.097,2018-02-26 22:27:09.836,7000000.0,IDR,Ovo,Success
+372,Simon Wacana,simonwacana@hotmail.com,hotmail.com,2018-05-01 20:26:20.625,Tidak Ada Data,2018-05-28 17:52:10.698,2018-06-04 10:00:05.209,9000000.0,IDR,Ovo,Waiting
+373,Sidiq Hutasoit,sidiqhutasoit@hotmail.com,hotmail.com,2022-02-10 19:53:49.115,2022-02-13 08:37:23.657387,2022-02-23 04:39:27.984,2022-02-28 19:51:36.083,13000000.0,IDR,BSI,Success
+374,Enteng Rajata,entengrajata@gmail.com,gmail.com,2017-11-03 22:54:31.391,2017-11-06 20:20:43.685437,2017-11-29 22:41:25.086,2017-11-30 19:36:04.228,7000000.0,IDR,Ovo,Success
+375,Victoria Kusmawati,victoriakusmawati@gmail.com,gmail.com,2020-02-08 23:46:45.747,Tidak Ada Data,2020-03-05 05:08:17.570,2020-03-19 04:08:08.332,5000000.0,IDR,BRI,Failed
+376,Tirtayasa Iswahyudi,tirtayasaiswahyudi@hotmail.com,hotmail.com,2015-07-15 05:52:11.951,Tidak Ada Data,2015-08-12 03:03:07.843,2015-08-18 12:28:44.334,15000000.0,IDR,BSI,Waiting
+377,Asman Wahyudin,asmanwahyudin@yahoo.com,yahoo.com,2018-01-13 22:51:13.630,2018-01-15 01:37:36.460337,2018-01-15 05:10:29.307,2018-01-22 01:33:14.667,7000000.0,IDR,BSI,Success
+378,Jaga Hutasoit,jagahutasoit@gmail.com,gmail.com,2015-12-07 04:13:14.791,2015-12-12 11:38:08.178944,2016-01-01 07:44:17.242,2016-01-04 13:21:52.429,7000000.0,IDR,BRI,Success
+379,Prabowo Manullang,prabowomanullang@yahoo.com,yahoo.com,2022-08-16 08:57:22.463,2022-08-17 02:10:06.371427,2022-08-21 17:21:48.899,2022-08-29 21:54:33.443,13000000.0,IDR,Mandiri,Success
+380,Dodo Adriansyah,dodoadriansyah@gmail.com,gmail.com,2020-02-23 05:19:19.238,2020-03-07 07:25:04.374195,2020-03-21 17:39:38.126,2020-03-31 05:35:34.677,7000000.0,IDR,Dana,Success
+381,Bahuwirya Sitompul,bahuwiryasitompul@yahoo.com,yahoo.com,2021-08-09 20:00:16.603,2021-08-16 05:42:28.857338,2021-08-17 21:38:25.669,2021-08-22 13:32:06.920,3000000.0,IDR,Ovo,Success
+382,Harto Melani,hartomelani@hotmail.com,hotmail.com,2017-08-06 04:15:25.172,2017-08-20 11:59:29.038824,2017-08-30 18:07:23.957,2017-09-01 02:08:37.923,5000000.0,IDR,BNI,Success
+383,Balamantri Sirait,balamantrisirait@yahoo.com,yahoo.com,2022-01-07 08:45:35.562,Tidak Ada Data,2022-01-15 17:13:26.608,2022-01-26 18:39:01.200,1000000.0,IDR,BSI,Failed
+384,Catur Maryadi,caturmaryadi@yahoo.com,yahoo.com,2023-07-04 00:32:43.303,Tidak Ada Data,2023-08-03 04:00:49.376,2023-08-15 02:53:20.540,3000000.0,IDR,Permata,Failed
+385,Galang Astuti,galangastuti@gmail.com,gmail.com,2016-02-01 06:50:14.585,2016-02-07 08:10:53.678703,2016-02-11 15:08:17.312,2016-02-23 07:52:44.039,13000000.0,IDR,Ovo,Success
+386,Karsa Nasyidah,karsanasyidah@gmail.com,gmail.com,2015-03-14 22:29:48.794,2015-03-31 01:01:56.088207,2015-04-11 23:26:17.388,2015-04-17 06:11:03.842,1000000.0,IDR,BNI,Success
+387,Winda Winarno,windawinarno@yahoo.com,yahoo.com,2017-11-14 23:49:45.890,2017-11-15 03:09:31.679482,2017-11-16 05:46:19.977,2017-11-24 19:56:49.692,1000000.0,IDR,BCA,Success
+388,Ganjaran Siregar,ganjaransiregar@gmail.com,gmail.com,2018-05-24 14:45:32.810,2018-06-11 03:46:04.923882,2018-06-14 22:27:41.324,2018-06-16 09:33:17.857,3000000.0,IDR,Dana,Success
+389,Jono Santoso,jonosantoso@hotmail.com,hotmail.com,2020-04-18 18:15:29.563,Tidak Ada Data,2020-05-07 08:32:38.700,2020-05-21 22:03:19.296,15000000.0,IDR,Ovo,Waiting
+390,Irwan Wastuti,irwanwastuti@gmail.com,gmail.com,2021-01-21 06:17:01.992,2021-01-28 17:55:04.158682,2021-02-11 03:59:44.180,2021-02-19 17:31:37.292,1000000.0,IDR,BRI,Success
+391,Kezia Utami,keziautami@hotmail.com,hotmail.com,2023-03-28 10:41:09.241,2023-04-04 20:22:56.788619,2023-04-06 04:45:28.230,2023-04-12 15:57:24.733,15000000.0,IDR,BCA,Success
+392,Ivan Jailani,ivanjailani@hotmail.com,hotmail.com,2017-09-26 11:50:37.461,Tidak Ada Data,2017-10-03 00:43:08.511,2017-10-16 19:21:03.842,15000000.0,IDR,BRI,Failed
+393,Prima Hassanah,primahassanah@gmail.com,gmail.com,2016-11-21 21:11:49.405,2016-11-22 20:59:14.248305,2016-11-24 00:23:56.900,2016-12-03 05:02:53.844,13000000.0,IDR,BCA,Success
+394,Betania Fujiati,betaniafujiati@gmail.com,gmail.com,2016-08-07 16:51:12.479,2016-08-25 09:28:02.575963,2016-09-02 14:04:00.621,2016-09-06 13:03:48.243,15000000.0,IDR,Ovo,Success
+395,Oni Gunawan,onigunawan@yahoo.com,yahoo.com,2018-11-28 08:34:56.863,2018-11-30 17:38:44.023934,2018-11-30 22:50:16.828,2018-12-14 20:52:12.611,9000000.0,IDR,BSI,Success
+396,Cawisono Budiman,cawisonobudiman@gmail.com,gmail.com,2021-03-16 16:46:20.854,Tidak Ada Data,2021-03-18 08:22:51.726,2021-03-21 08:03:21.100,15000000.0,IDR,BCA,Failed
+397,Mursita Prastuti,mursitaprastuti@yahoo.com,yahoo.com,2018-08-01 23:40:55.197,2018-08-05 09:22:05.983116,2018-08-27 12:44:56.532,2018-09-01 19:05:38.807,5000000.0,IDR,Permata,Success
+398,Baktianto Anggriawan,baktiantoanggriawan@yahoo.com,yahoo.com,2022-03-29 04:38:14.964,Tidak Ada Data,2022-04-19 12:35:51.127,2022-04-21 03:06:16.519,15000000.0,IDR,Mandiri,Failed
+399,Najam Sitompul,najamsitompul@gmail.com,gmail.com,2015-12-01 20:42:11.606,2015-12-12 22:35:15.569310,2015-12-19 19:28:08.809,2015-12-22 02:52:27.249,1000000.0,IDR,Ovo,Success
+400,Edi Suryatmi,edisuryatmi@gmail.com,gmail.com,2021-07-07 17:21:42.407,2021-07-29 16:38:06.052542,2021-08-02 22:27:28.713,2021-08-11 18:12:59.252,7000000.0,IDR,BNI,Success
+401,,,,,2024-02-14 00:30:15.052542,,,,IDR,BCA,Success
