@@ -1,0 +1,6 @@
+luigi==3.5.0
+pandas==2.0.3
+pangres==4.2.1
+python-dotenv==1.0.1
+Requests==2.31.0
+SQLAlchemy==2.0.25

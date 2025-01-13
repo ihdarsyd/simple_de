@@ -1,0 +1,270 @@
+2025-01-13 21:27:06,150 - INFO - [pid 30648] Worker Worker(salt=5070909309, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=30648) done      ExtractAPIPaymentData()
+2025-01-13 21:27:06,151 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:27:06,154 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:27:06,156 - DEBUG - Asking scheduler for work...
+2025-01-13 21:27:06,159 - DEBUG - Done
+2025-01-13 21:27:06,159 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:27:06,159 - INFO - Worker Worker(salt=5070909309, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=30648) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:27:06,160 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 1 tasks of which:
+* 1 ran successfully:
+    - 1 ExtractAPIPaymentData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:28:02,837 - INFO - [pid 12400] Worker Worker(salt=5552278309, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=12400) done      ExtractAPIPaymentData()
+2025-01-13 21:28:02,839 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:28:02,844 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:28:02,844 - DEBUG - Asking scheduler for work...
+2025-01-13 21:28:02,849 - DEBUG - Done
+2025-01-13 21:28:02,849 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:28:02,851 - INFO - Worker Worker(salt=5552278309, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=12400) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:28:02,852 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 1 tasks of which:
+* 1 ran successfully:
+    - 1 ExtractAPIPaymentData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:30:09,683 - INFO - [pid 33308] Worker Worker(salt=6775752994, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=33308) done      ExtractAPIPaymentData()
+2025-01-13 21:30:09,684 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:30:09,688 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:30:09,689 - DEBUG - Asking scheduler for work...
+2025-01-13 21:30:09,693 - DEBUG - Pending tasks: 1
+2025-01-13 21:30:09,694 - INFO - [pid 33308] Worker Worker(salt=6775752994, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=33308) running   ExtractDBHotelData()
+2025-01-13 21:30:09,925 - INFO - [pid 33308] Worker Worker(salt=6775752994, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=33308) done      ExtractDBHotelData()
+2025-01-13 21:30:09,926 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:30:09,931 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:30:09,931 - DEBUG - Asking scheduler for work...
+2025-01-13 21:30:09,936 - DEBUG - Done
+2025-01-13 21:30:09,937 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:30:09,937 - INFO - Worker Worker(salt=6775752994, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=33308) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:30:09,939 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:32:58,234 - INFO - [pid 14300] Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) done      ExtractAPIPaymentData()
+2025-01-13 21:32:58,235 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:32:58,239 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:32:58,241 - DEBUG - Asking scheduler for work...
+2025-01-13 21:32:58,245 - DEBUG - Pending tasks: 2
+2025-01-13 21:32:58,245 - INFO - [pid 14300] Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) running   ExtractDBHotelData()
+2025-01-13 21:32:58,421 - INFO - [pid 14300] Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) done      ExtractDBHotelData()
+2025-01-13 21:32:58,421 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:32:58,424 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:32:58,425 - DEBUG - Asking scheduler for work...
+2025-01-13 21:32:58,428 - DEBUG - Pending tasks: 1
+2025-01-13 21:32:58,428 - INFO - [pid 14300] Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) running   ValidateData()
+2025-01-13 21:32:58,512 - INFO - [pid 14300] Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) done      ValidateData()
+2025-01-13 21:32:58,512 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:32:58,516 - INFO - Informed scheduler that task   ValidateData__99914b932b   has status   DONE
+2025-01-13 21:32:58,517 - DEBUG - Asking scheduler for work...
+2025-01-13 21:32:58,522 - DEBUG - Done
+2025-01-13 21:32:58,522 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:32:58,523 - INFO - Worker Worker(salt=5488442966, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=14300) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:32:58,527 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 3 tasks of which:
+* 3 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+    - 1 ValidateData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:34:54,198 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) done      ExtractAPIPaymentData()
+2025-01-13 21:34:54,200 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:34:54,205 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:34:54,206 - DEBUG - Asking scheduler for work...
+2025-01-13 21:34:54,209 - DEBUG - Pending tasks: 3
+2025-01-13 21:34:54,209 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) running   ExtractDBHotelData()
+2025-01-13 21:34:54,401 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) done      ExtractDBHotelData()
+2025-01-13 21:34:54,402 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:34:54,406 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:34:54,407 - DEBUG - Asking scheduler for work...
+2025-01-13 21:34:54,411 - DEBUG - Pending tasks: 2
+2025-01-13 21:34:54,411 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) running   ValidateData()
+2025-01-13 21:34:54,550 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) done      ValidateData()
+2025-01-13 21:34:54,551 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:34:54,556 - INFO - Informed scheduler that task   ValidateData__99914b932b   has status   DONE
+2025-01-13 21:34:54,556 - DEBUG - Asking scheduler for work...
+2025-01-13 21:34:54,565 - DEBUG - Pending tasks: 1
+2025-01-13 21:34:54,566 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) running   TransformHotelData()
+2025-01-13 21:34:54,624 - INFO - [pid 34076] Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) done      TransformHotelData()
+2025-01-13 21:34:54,624 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:34:54,629 - INFO - Informed scheduler that task   TransformHotelData__99914b932b   has status   DONE
+2025-01-13 21:34:54,629 - DEBUG - Asking scheduler for work...
+2025-01-13 21:34:54,633 - DEBUG - Done
+2025-01-13 21:34:54,633 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:34:54,634 - INFO - Worker Worker(salt=674821899, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=34076) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:34:54,636 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 4 tasks of which:
+* 4 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+    - 1 TransformHotelData()
+    - 1 ValidateData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:38:24,751 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) done      ExtractAPIPaymentData()
+2025-01-13 21:38:24,752 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:38:24,758 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:38:24,758 - DEBUG - Asking scheduler for work...
+2025-01-13 21:38:24,764 - DEBUG - Pending tasks: 4
+2025-01-13 21:38:24,764 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) running   ExtractDBHotelData()
+2025-01-13 21:38:24,933 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) done      ExtractDBHotelData()
+2025-01-13 21:38:24,934 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:38:24,939 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:38:24,939 - DEBUG - Asking scheduler for work...
+2025-01-13 21:38:24,944 - DEBUG - Pending tasks: 3
+2025-01-13 21:38:24,944 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) running   ValidateData()
+2025-01-13 21:38:25,044 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) done      ValidateData()
+2025-01-13 21:38:25,047 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:38:25,055 - INFO - Informed scheduler that task   ValidateData__99914b932b   has status   DONE
+2025-01-13 21:38:25,055 - DEBUG - Asking scheduler for work...
+2025-01-13 21:38:25,064 - DEBUG - Pending tasks: 2
+2025-01-13 21:38:25,065 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) running   TransformHotelData()
+2025-01-13 21:38:25,137 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) done      TransformHotelData()
+2025-01-13 21:38:25,138 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:38:25,149 - INFO - Informed scheduler that task   TransformHotelData__99914b932b   has status   DONE
+2025-01-13 21:38:25,149 - DEBUG - Asking scheduler for work...
+2025-01-13 21:38:25,156 - DEBUG - Pending tasks: 1
+2025-01-13 21:38:25,156 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) running   LoadData()
+2025-01-13 21:38:25,486 - INFO - [pid 31344] Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) done      LoadData()
+2025-01-13 21:38:25,487 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:38:25,491 - INFO - Informed scheduler that task   LoadData__99914b932b   has status   DONE
+2025-01-13 21:38:25,491 - DEBUG - Asking scheduler for work...
+2025-01-13 21:38:25,498 - DEBUG - Done
+2025-01-13 21:38:25,498 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:38:25,499 - INFO - Worker Worker(salt=2337238803, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=31344) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:38:25,501 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 5 tasks of which:
+* 5 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+    - 1 LoadData()
+    - 1 TransformHotelData()
+    - 1 ValidateData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:39:11,467 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) done      ExtractAPIPaymentData()
+2025-01-13 21:39:11,468 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:11,472 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:39:11,472 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:11,476 - DEBUG - Pending tasks: 4
+2025-01-13 21:39:11,476 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) running   ExtractDBHotelData()
+2025-01-13 21:39:11,633 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) done      ExtractDBHotelData()
+2025-01-13 21:39:11,635 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:11,639 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:39:11,639 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:11,645 - DEBUG - Pending tasks: 3
+2025-01-13 21:39:11,646 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) running   ValidateData()
+2025-01-13 21:39:11,749 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) done      ValidateData()
+2025-01-13 21:39:11,749 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:11,755 - INFO - Informed scheduler that task   ValidateData__99914b932b   has status   DONE
+2025-01-13 21:39:11,755 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:11,761 - DEBUG - Pending tasks: 2
+2025-01-13 21:39:11,762 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) running   TransformHotelData()
+2025-01-13 21:39:11,834 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) done      TransformHotelData()
+2025-01-13 21:39:11,835 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:11,840 - INFO - Informed scheduler that task   TransformHotelData__99914b932b   has status   DONE
+2025-01-13 21:39:11,840 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:11,848 - DEBUG - Pending tasks: 1
+2025-01-13 21:39:11,848 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) running   LoadData()
+2025-01-13 21:39:12,161 - INFO - [pid 38048] Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) done      LoadData()
+2025-01-13 21:39:12,162 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:12,166 - INFO - Informed scheduler that task   LoadData__99914b932b   has status   DONE
+2025-01-13 21:39:12,167 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:12,172 - DEBUG - Done
+2025-01-13 21:39:12,172 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:39:12,173 - INFO - Worker Worker(salt=3069642616, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=38048) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:39:12,176 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 5 tasks of which:
+* 5 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+    - 1 LoadData()
+    - 1 TransformHotelData()
+    - 1 ValidateData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2025-01-13 21:39:33,519 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) done      ExtractAPIPaymentData()
+2025-01-13 21:39:33,522 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:33,526 - INFO - Informed scheduler that task   ExtractAPIPaymentData__99914b932b   has status   DONE
+2025-01-13 21:39:33,527 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:33,532 - DEBUG - Pending tasks: 4
+2025-01-13 21:39:33,532 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) running   ExtractDBHotelData()
+2025-01-13 21:39:33,685 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) done      ExtractDBHotelData()
+2025-01-13 21:39:33,685 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:33,690 - INFO - Informed scheduler that task   ExtractDBHotelData__99914b932b   has status   DONE
+2025-01-13 21:39:33,691 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:33,695 - DEBUG - Pending tasks: 3
+2025-01-13 21:39:33,695 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) running   ValidateData()
+2025-01-13 21:39:33,792 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) done      ValidateData()
+2025-01-13 21:39:33,794 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:33,799 - INFO - Informed scheduler that task   ValidateData__99914b932b   has status   DONE
+2025-01-13 21:39:33,799 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:33,804 - DEBUG - Pending tasks: 2
+2025-01-13 21:39:33,805 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) running   TransformHotelData()
+2025-01-13 21:39:33,874 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) done      TransformHotelData()
+2025-01-13 21:39:33,875 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:33,882 - INFO - Informed scheduler that task   TransformHotelData__99914b932b   has status   DONE
+2025-01-13 21:39:33,883 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:33,891 - DEBUG - Pending tasks: 1
+2025-01-13 21:39:33,892 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) running   LoadData()
+2025-01-13 21:39:34,197 - INFO - [pid 10092] Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) done      LoadData()
+2025-01-13 21:39:34,198 - DEBUG - 1 running tasks, waiting for next task to finish
+2025-01-13 21:39:34,202 - INFO - Informed scheduler that task   LoadData__99914b932b   has status   DONE
+2025-01-13 21:39:34,203 - DEBUG - Asking scheduler for work...
+2025-01-13 21:39:34,208 - DEBUG - Done
+2025-01-13 21:39:34,208 - DEBUG - There are no more tasks to run at this time
+2025-01-13 21:39:34,209 - INFO - Worker Worker(salt=2037663918, workers=1, host=DESKTOP-KIQCHDD, username=ihdarsyd, pid=10092) was stopped. Shutting down Keep-Alive thread
+2025-01-13 21:39:34,211 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 5 tasks of which:
+* 5 ran successfully:
+    - 1 ExtractAPIPaymentData()
+    - 1 ExtractDBHotelData()
+    - 1 LoadData()
+    - 1 TransformHotelData()
+    - 1 ValidateData()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+

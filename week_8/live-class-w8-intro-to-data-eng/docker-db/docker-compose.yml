@@ -1,0 +1,26 @@
+version: '3'
+services:
+  pachotel_db:
+    image: postgres:latest
+    container_name: pachotel_db
+    restart: always
+    environment:
+      - POSTGRES_DB=pachotel
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=cobapassword
+    volumes:
+      - ./data-source/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - 5433:5432 
+  data_warehouse_hotel_db:
+    image: postgres:latest
+    container_name: data_warehouse_hotel_db
+    restart: always
+    environment:
+      - POSTGRES_DB=hotel_analysis_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=cobapassword
+    volumes:
+      - ./data-warehouse/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - 5434:5432 
